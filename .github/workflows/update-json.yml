@@ -1,4 +1,4 @@
-name: Update JSON on Issue Creation
+name: Update JSON and Generate Markdown on Issue Creation
 
 on:
   issues:
@@ -11,6 +11,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
+      with:
+        persist-credentials: true
 
     - name: Set up Python
       uses: actions/setup-python@v2
@@ -42,25 +44,24 @@ jobs:
         INPUT_WEBSITE: ${{ steps.extract_content.outputs.website }}
         INPUT_TAGS: ${{ steps.extract_content.outputs.tags }}
 
-    - name: Commit and push changes
-      run: |
-        git config --global user.name 'github-actions'
-        git config --global user.email 'github-actions@github.com'
-        git add data.json
-        git commit -m "Update data.json with new issue"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Generate Markdown file
       run: |
         python scripts/generate_markdown.py
 
     - name: Commit and push JSON and Markdown files
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
+        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
         git add data.json output.md
         git commit -m "Update data.json and output.md with new issue"
-        git push
+        git push origin HEAD:main
+
+    - name: Push Markdown file to another repository
+      run: |
+        python scripts/push_to_repo.py
       env:
+        TARGET_REPO_URL: git@github.com:Axi404/Listener.git
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
