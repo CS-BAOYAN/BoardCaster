@@ -25,6 +25,14 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "绿裙大学",
+            "institute": "GitHub学院",
+            "description": "描述喵喵",
+            "deadline": "2024-06-26T00:00:00+08:00",
+            "website": "http://github.com/Axi404",
+            "tags": []
         }
     ]
 }
