@@ -1,4 +1,5 @@
 import json
+from datetime import datetime
 
 # 读取现有的 JSON 文件
 with open('data.json', 'r', encoding='utf-8') as file:
@@ -11,6 +12,9 @@ for entry in data['schools']:
     if name not in schools_dict:
         schools_dict[name] = []
     schools_dict[name].append(entry)
+
+# 获取当前日期和时间
+current_datetime = datetime.now()
 
 # 生成 Markdown 内容
 markdown_lines = []
@@ -32,10 +36,24 @@ markdown_lines.append("")
 for name, entries in schools_dict.items():
     markdown_lines.append(f"## {name}\n")
     for entry in entries:
-        line = f"【截止日期：{entry['deadline'][0:10]} {entry['deadline'][11:19]}】[{entry['institute']}]({entry['website']}) {entry['description']}"
+        deadline = entry['deadline'][0:10] + '-' + entry['deadline'][11:19]
+        
+        if deadline:
+            try:
+                deadline_datetime = datetime.strptime(deadline, '%Y-%m-%d-%H:%M:%S')
+                is_past_deadline = deadline_datetime < current_datetime
+            except ValueError:
+                deadline = "N/A"
+                is_past_deadline = False
+        else:
+            deadline = "N/A"
+            is_past_deadline = False
+
+        line = f"【截止日期：{deadline}】[{entry['institute']}]({entry['website']}) {entry['description']}"
+        if is_past_deadline:
+            line = f"~~{line}~~"
         markdown_lines.append(line)
-        markdown_lines.append("")  # 空一行
-    markdown_lines.append("")  # 空一行
+        markdown_lines.append("")
     markdown_lines.append("")  # 空一行
 
 # 将 Markdown 内容写入文件
