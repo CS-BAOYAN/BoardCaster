@@ -49,7 +49,7 @@ for name, entries in schools_dict.items():
             deadline = "N/A"
             is_past_deadline = False
 
-        line = f"【截止日期：{deadline}】[{entry['institute']}]({entry['website']}) {entry['description']}"
+        line = f"【截止日期：{deadline}】[{entry['institute']}]({entry['website']}){entry['description']}"
         if is_past_deadline:
             line = f"~~{line}~~"
         markdown_lines.append(line)
