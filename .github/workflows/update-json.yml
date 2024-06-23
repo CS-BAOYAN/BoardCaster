@@ -58,10 +58,3 @@ jobs:
         git add data.json output.md
         git commit -m "Update data.json and output.md with new issue"
         git push origin HEAD:main
-
-    - name: Push Markdown file to another repository
-      run: |
-        python scripts/push_to_repo.py
-      env:
-        TARGET_REPO_URL: git@github.com:Axi404/Listener.git
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

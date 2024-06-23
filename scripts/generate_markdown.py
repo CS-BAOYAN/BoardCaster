@@ -20,6 +20,7 @@ for name, entries in schools_dict.items():
         line = f"【截止日期：{entry['deadline'][0:10]} {entry['deadline'][11:19]}】[{entry['institute']}]({entry['website']}) {entry['description']}"
         markdown_lines.append(line)
     markdown_lines.append("")  # 空一行
+    markdown_lines.append("")  # 空一行
 
 # 将 Markdown 内容写入文件
 with open('output.md', 'w', encoding='utf-8') as file:
