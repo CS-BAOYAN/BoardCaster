@@ -33,6 +33,14 @@
             "deadline": "2024-06-26T00:00:00+08:00",
             "website": "http://github.com/Axi404",
             "tags": []
+        },
+        {
+            "name": "绿裙大学",
+            "institute": "GitHub学院",
+            "description": "hello world",
+            "deadline": "2024-06-26T00:00:00+08:00",
+            "website": "http://github.com/",
+            "tags": []
         }
     ]
 }
