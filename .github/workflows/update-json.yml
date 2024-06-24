@@ -30,10 +30,13 @@ jobs:
         FIRST_CHAR=$(echo "$ISSUE_BODY" | head -c 1)
         if [ "$FIRST_CHAR" != "{" ]; then
           echo "Issue body is not valid JSON. Skipping further steps."
-          exit 0
+          echo "::set-output name=is_valid_json::false"
+        else
+          echo "::set-output name=is_valid_json::true"
         fi
 
     - name: Extract issue content
+      if: steps.check_json.outputs.is_valid_json == 'true'
       id: extract_content
       run: |
         echo "::set-output name=name::$(echo '${{ github.event.issue.body }}' | jq -r '.name')"
@@ -44,6 +47,7 @@ jobs:
         echo "::set-output name=tags::$(echo '${{ github.event.issue.body }}' | jq -r '.tags | tojson')"
 
     - name: Update JSON file
+      if: steps.check_json.outputs.is_valid_json == 'true'
       run: |
         python scripts/update_json.py
       env:
@@ -55,10 +59,12 @@ jobs:
         INPUT_TAGS: ${{ steps.extract_content.outputs.tags }}
 
     - name: Generate Markdown file
+      if: steps.check_json.outputs.is_valid_json == 'true'
       run: |
         python scripts/generate_markdown.py
 
     - name: Commit and push JSON and Markdown files
+      if: steps.check_json.outputs.is_valid_json == 'true'
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
