@@ -27,8 +27,12 @@ jobs:
       id: check_json
       run: |
         ISSUE_BODY="${{ github.event.issue.body }}"
+        echo "Issue body content: $ISSUE_BODY"
+        set +e
         echo "$ISSUE_BODY" | jq . > /dev/null 2>&1
-        if [ $? -ne 0 ]; then
+        JQ_EXIT_CODE=$?
+        set -e
+        if [ $JQ_EXIT_CODE -ne 0 ]; then
           echo "Issue body is not valid JSON. Skipping further steps."
           echo "::set-output name=is_valid_json::false"
         else
