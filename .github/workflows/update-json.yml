@@ -45,6 +45,7 @@ jobs:
         echo "::set-output name=deadline::$(echo '${{ github.event.issue.body }}' | jq -r '.deadline')"
         echo "::set-output name=website::$(echo '${{ github.event.issue.body }}' | jq -r '.website')"
         echo "::set-output name=tags::$(echo '${{ github.event.issue.body }}' | jq -r '.tags | tojson')"
+        echo "::set-output name=target::$(echo '${{ github.event.issue.body }}' | jq -r '.target')"
 
     - name: Update JSON file
       if: steps.check_json.outputs.is_valid_json == 'true'
@@ -57,6 +58,7 @@ jobs:
         INPUT_DEADLINE: ${{ steps.extract_content.outputs.deadline }}
         INPUT_WEBSITE: ${{ steps.extract_content.outputs.website }}
         INPUT_TAGS: ${{ steps.extract_content.outputs.tags }}
+        INPUT_TARGET: ${{ steps.extract_content.outputs.target }}
 
     - name: Generate Markdown file
       if: steps.check_json.outputs.is_valid_json == 'true'

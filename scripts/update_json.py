@@ -1,6 +1,8 @@
 import json
 import os
 
+target = os.getenv('INPUT_TARGET')
+
 # 读取现有的 JSON 文件
 with open('data.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
@@ -12,11 +14,11 @@ new_entry = {
     "description": os.getenv('INPUT_DESCRIPTION'),
     "deadline": os.getenv('INPUT_DEADLINE'),
     "website": os.getenv('INPUT_WEBSITE'),
-    "tags": json.loads(os.getenv('INPUT_TAGS', '[]'))  # 将 tags 从 JSON 字符串解析为列表
+    "tags": json.loads(os.getenv('INPUT_TAGS', '[]'))
 }
 
 # 添加新条目到 schools 列表
-data['schools'].append(new_entry)
+data[target].append(new_entry)
 
 # 将更新后的数据写回 JSON 文件
 with open('data.json', 'w', encoding='utf-8') as file:

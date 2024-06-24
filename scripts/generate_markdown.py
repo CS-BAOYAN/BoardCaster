@@ -7,7 +7,7 @@ with open('data.json', 'r', encoding='utf-8') as file:
 
 # 创建一个字典，以 name 为键，存储相应的条目
 schools_dict = {}
-for entry in data['schools']:
+for entry in data['camp2024']:
     name = entry['name']
     if name not in schools_dict:
         schools_dict[name] = []
