@@ -195,7 +195,7 @@
 
 ## 中国人民大学
 
-【截止日期：2024-06-24-17:00:00】[智慧治理学院](http://zhzl.ruc.edu.cn/zsxx/zsjz/d82cceae4e6644acbc17a22e7029a266.htm)中国人民大学智慧治理学院2024年暑期研学营
+~~【截止日期：2024-06-24-17:00:00】[智慧治理学院](http://zhzl.ruc.edu.cn/zsxx/zsjz/d82cceae4e6644acbc17a22e7029a266.htm)中国人民大学智慧治理学院2024年暑期研学营~~
 
 ~~【截止日期：2024-06-16-17:00:00】[中国人民大学信息学院](http://info.ruc.edu.cn/rcpy/bss/zsxx3/a945da71ead24051af090a695d0598b7.htm)~~
 
