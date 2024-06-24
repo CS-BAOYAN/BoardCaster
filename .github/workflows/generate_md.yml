@@ -2,7 +2,8 @@ name: Generate Markdown on Schedule
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '*/15 * * * *'  # 每五分钟运行一次
+  workflow_dispatch:  # 手动触发
 
 jobs:
   update-json:
