@@ -54,7 +54,6 @@ jobs:
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
-        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
         git add data.json output.md
         git commit -m "Update data.json and output.md with new issue"
-        git push origin HEAD:main
+        git push

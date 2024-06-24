@@ -34,7 +34,10 @@ jobs:
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
-        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
         git add output.md
-        git commit -m "Update output.md on schedule"
-        git push origin HEAD:main
+        if git diff-index --quiet HEAD; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update output.md on schedule"
+          git push
+        fi
