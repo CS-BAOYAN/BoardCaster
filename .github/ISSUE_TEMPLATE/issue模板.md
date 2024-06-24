@@ -13,5 +13,6 @@ assignees: ''
 "description": "(无额外内容请直接留空)",
 "deadline": "2024-06-26T00:00:00+08:00",
 "website": "http://github.com/",
-"tags": []
+"tags": [],
+"target": "camp2024"
 }
