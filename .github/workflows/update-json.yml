@@ -27,8 +27,8 @@ jobs:
       id: check_json
       run: |
         ISSUE_BODY="${{ github.event.issue.body }}"
-        FIRST_CHAR=$(echo "$ISSUE_BODY" | head -c 1)
-        if [ "$FIRST_CHAR" != "{" ]; then
+        echo "$ISSUE_BODY" | jq . > /dev/null 2>&1
+        if [ $? -ne 0 ]; then
           echo "Issue body is not valid JSON. Skipping further steps."
           echo "::set-output name=is_valid_json::false"
         else
