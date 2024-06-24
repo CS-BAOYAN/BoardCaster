@@ -1,0 +1,39 @@
+name: Generate Markdown on Schedule
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      with:
+        persist-credentials: true
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+
+    - name: Generate Markdown file
+      run: |
+        python scripts/generate_markdown.py
+
+    - name: Commit Markdown file
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@github.com'
+        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
+        git add output.md
+        git commit -m "Update output.md on schedule"
+        git push origin HEAD:main
