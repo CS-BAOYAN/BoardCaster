@@ -2,7 +2,7 @@ name: Update JSON and Generate Markdown on Issue Creation
 
 on:
   issues:
-    types: [opened]
+    types: [closed]
 
 jobs:
   update-json:
@@ -22,6 +22,16 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
+
+    - name: Check if issue body is valid JSON
+      id: check_json
+      run: |
+        ISSUE_BODY="${{ github.event.issue.body }}"
+        FIRST_CHAR=$(echo "$ISSUE_BODY" | head -c 1)
+        if [ "$FIRST_CHAR" != "{" ]; then
+          echo "Issue body is not valid JSON. Skipping further steps."
+          exit 0
+        fi
 
     - name: Extract issue content
       id: extract_content
