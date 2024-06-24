@@ -3401,6 +3401,16 @@
             "tags": [
                 "研究院"
             ]
+        },
+        {
+            "name": "江西农业大学",
+            "institute": "计算机与信息工程学院",
+            "description": "",
+            "deadline": "2024-06-27T00:00:00+08:00",
+            "website": "https://jixin.jxau.edu.cn/13/1f/c1895a135967/page.htm",
+            "tags": [
+                "四非"
+            ]
         }
     ]
 }
