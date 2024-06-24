@@ -26,10 +26,10 @@ jobs:
     - name: Check if issue body is valid JSON
       id: check_json
       run: |
-        ISSUE_BODY="${{ github.event.issue.body }}"
+        ISSUE_BODY='${{ github.event.issue.body }}'
         echo "Issue body content: $ISSUE_BODY"
         set +e
-        echo "$ISSUE_BODY" | jq . > /dev/null 2>&1
+        echo '$ISSUE_BODY' | jq . > /dev/null 2>&1
         JQ_EXIT_CODE=$?
         set -e
         if [ $JQ_EXIT_CODE -ne 0 ]; then
