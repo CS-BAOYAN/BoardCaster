@@ -340,7 +340,7 @@
 
 【截止日期：2024-06-27-00:00:00】[自动化研究所](https://ia.cas.cn/yjsjy/zs/sszs/202406/t20240613_7188181.html)
 
-【截止日期：2024-06-25-14:00:00】[计算技术研究所](http://www.ict.ac.cn/yjsjy/zsxx/sszs/202406/t20240618_7191570.html)
+~~【截止日期：2024-06-25-14:00:00】[计算技术研究所](http://www.ict.ac.cn/yjsjy/zsxx/sszs/202406/t20240618_7191570.html)~~
 
 【截止日期：2024-06-26-00:00:00】[脑科学与智能技术卓越创新中心（神经科学研究所）](https://mp.weixin.qq.com/s/CamcfCmc3jmwMaiS5WVYqA)
 
