@@ -12,6 +12,18 @@ BoardCaster 是 CSBAOYAN 相关的数据库，使用JSON文件管理格式化的
 
 假如说贡献者计划修改信息，可以通过正常的开源流程进行commit。
 
+假如说JSON文件存在相应的修改，请注意commit格式为 `大学 学院 XX修改`，修改类型包括：
+
+- `link`：链接的更新。
+- `OC`：Open Camp，开营Tag的添加
+- `CC`：Close Camp，结营Tag的添加
+- `TagFix`：Tag的修复与补充
+- `DescribeFix`：描述的修复与补充
+
+请注意单次修改对应单次commit。
+
+其他文件的commit不做强制要求，在PR中说明清楚即可。
+
 ### 其他
 
 通过正常的开源流程进行commit。
