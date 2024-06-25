@@ -10,7 +10,7 @@ BoardCaster 是 CSBAOYAN 相关的数据库，使用JSON文件管理格式化的
 
 不擅长使用 Github 的贡献者，我们提供了图文教学如下：
 
-<img src="./assets/IssueWorkflow.png" alt="workflow" style="display: block; margin: 0 auto; zoom: 50%;">
+<img src="./assets/IssueWorkflow.png" alt="workflow" style="display: block; margin: 0 auto; zoom: 20%;">
 
 ### 修改信息
 
