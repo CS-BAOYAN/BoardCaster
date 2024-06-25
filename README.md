@@ -8,6 +8,10 @@ BoardCaster 是 CSBAOYAN 相关的数据库，使用JSON文件管理格式化的
 
 假如说贡献者计划发布新的信息，可以在 Issue 中提交，根据Issue模板的要求即可。无需担心模板填写错误，管理员在进行审核后会修改Issue内容，并通过closed进行更新。
 
+不擅长使用 Github 的贡献者，我们提供了图文教学如下：
+
+![](assets/IssueWorkflow.png)
+
 ### 修改信息
 
 假如说贡献者计划修改信息，可以通过正常的开源流程进行commit。
