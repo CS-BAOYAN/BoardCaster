@@ -6,7 +6,7 @@ BoardCaster 是 CSBAOYAN 相关的数据库，使用JSON文件管理格式化的
 
 ### 对于管理员
 
-close issue 操作请由管理员审核后（是否合规）进行操作，其中重点在于，description 中如留空，是否依然残留'()'内容。请勿同时保持两个action同时运行。
+close issue 操作请由管理员审核后（是否合规）进行操作，其中重点在于，description 中如留空，是否依然残留'()'内容。请勿同时保持两个 action 同时运行。
 
 ### 发布信息
 
