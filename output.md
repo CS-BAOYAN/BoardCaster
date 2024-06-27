@@ -514,6 +514,8 @@
 
 【截止日期：2024-07-01-00:00:00】[计算机与软件学院](https://mp.weixin.qq.com/s/2mzeis4AAbb_lPSoBnUO2g)
 
+【截止日期：2024-07-16-00:00:00】[光明实验室](https://mp.weixin.qq.com/s/P_-L3Zfi5s2UMsORAUMyvw)
+
 
 ## 首都师范大学
 
