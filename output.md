@@ -909,3 +909,8 @@
 
 ~~【截止日期：2024-06-26-00:00:00】[计算机科学学院](https://jky.yangtzeu.edu.cn/info/1266/5333.htm)~~
 
+
+## 中国传媒大学
+
+【截止日期：2024-06-28-00:00:00】[数据科学与智能媒体学院](https://yz.cuc.edu.cn/_upload/article/files/ff/73/5ca1007c48f3937e1353362260a8/a213485c-f2b1-486f-bdd1-c9681d137e7c.pdf)
+
