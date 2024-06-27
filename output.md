@@ -928,3 +928,8 @@
 
 【截止日期：2024-07-01-00:00:00】[人工智能与人类语言重点实验室](https://mp.weixin.qq.com/s/jE5zh70IbsyPVdXKUnJ6QA)
 
+
+## 中国航天科工集团第二研究院
+
+【截止日期：2024-07-14-17:00:00】[航天二院](https://mp.weixin.qq.com/s/3KIvIBFdgNSv5yP5Pzp5dQ)
+
