@@ -916,3 +916,8 @@
 
 【截止日期：2024-06-28-00:00:00】[计算机与网络通信学院](https://yz.cuc.edu.cn/_upload/article/files/ff/73/5ca1007c48f3937e1353362260a8/43747dea-79f9-4fb7-972e-2112bd84d477.pdf)
 
+
+## 首都体育大学
+
+【截止日期：2024-06-29-00:00:00】[体育人工智能研究院](https://mp.weixin.qq.com/s/Gd4M6Mt7_cDL5dE3j-AHZg)
+
