@@ -947,3 +947,8 @@
 
 【截止日期：2024-07-06-00:00:00】[信息工程学院](https://mp.weixin.qq.com/s/ixg1TUkRsV7qV0QlCU3rWg)
 
+
+## 云南大学
+
+【截止日期：2024-07-05-12:00:00】[软件学院](http://www.sei.ynu.edu.cn/info/1057/2332.htm)
+

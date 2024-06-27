@@ -3629,6 +3629,16 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "云南大学",
+            "institute": "软件学院",
+            "description": "",
+            "deadline": "2024-07-05T12:00:00+08:00",
+            "website": "http://www.sei.ynu.edu.cn/info/1057/2332.htm",
+            "tags": [
+                "211"
+            ]
         }
     ],
     "yutuimian2024": []
