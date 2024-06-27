@@ -923,3 +923,8 @@
 
 【截止日期：2024-06-29-00:00:00】[体育人工智能研究院](https://mp.weixin.qq.com/s/Gd4M6Mt7_cDL5dE3j-AHZg)
 
+
+## 北京外国语大学
+
+【截止日期：2024-07-01-00:00:00】[人工智能与人类语言重点实验室](https://mp.weixin.qq.com/s/jE5zh70IbsyPVdXKUnJ6QA)
+
