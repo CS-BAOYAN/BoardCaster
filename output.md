@@ -516,6 +516,8 @@
 
 【截止日期：2024-07-16-00:00:00】[光明实验室](https://mp.weixin.qq.com/s/P_-L3Zfi5s2UMsORAUMyvw)
 
+【截止日期：2024-07-15-00:00:00】[大数据系统计算技术国家工程实验室](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)
+
 
 ## 首都师范大学
 
