@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     concurrency:
-      group: update-json-${{ github.event.issue.number }}
+      group: update-json
       cancel-in-progress: false
 
     steps:
