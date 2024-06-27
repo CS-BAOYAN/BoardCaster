@@ -940,3 +940,8 @@
 
 【截止日期：2024-07-06-00:00:00】[第五届“强军之星”优秀大学生夏令营](https://mp.weixin.qq.com/s/iDBPucqozYMYyny0MfjJuA)
 
+
+## 浙江工业大学
+
+【截止日期：2024-07-06-00:00:00】[信息工程学院](https://mp.weixin.qq.com/s/ixg1TUkRsV7qV0QlCU3rWg)
+
