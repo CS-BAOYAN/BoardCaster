@@ -522,6 +522,8 @@
 
 【截止日期：2024-07-04-00:00:00】[电子与信息工程学院](https://mp.weixin.qq.com/s/mxV8bHtcu_7Jy5dYyb3vaA)
 
+【截止日期：2024-07-08-12:00:00】[医学部生物医学工程学院](https://mp.weixin.qq.com/s/GI7xDwhwgkx7uc1KwwFkJg)
+
 
 ## 首都师范大学
 
