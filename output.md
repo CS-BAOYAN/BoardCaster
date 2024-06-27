@@ -933,3 +933,8 @@
 
 【截止日期：2024-07-14-17:00:00】[航天二院](https://mp.weixin.qq.com/s/3KIvIBFdgNSv5yP5Pzp5dQ)
 
+
+## 军事科学院
+
+【截止日期：2024-07-06-00:00:00】[第五届“强军之星”优秀大学生夏令营](https://mp.weixin.qq.com/s/iDBPucqozYMYyny0MfjJuA)
+
