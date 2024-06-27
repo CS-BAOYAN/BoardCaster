@@ -3506,6 +3506,16 @@
             "deadline": "2024-07-15T00:00:00+08:00",
             "website": "https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg",
             "tags": []
+        },
+        {
+            "name": "长江大学",
+            "institute": "计算机科学学院",
+            "description": "",
+            "deadline": "2024-06-26T00:00:00+08:00",
+            "website": "https://jky.yangtzeu.edu.cn/info/1266/5333.htm",
+            "tags": [
+                "四非"
+            ]
         }
     ],
     "yutuimian2024": []
