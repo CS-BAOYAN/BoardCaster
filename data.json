@@ -3482,9 +3482,15 @@
             "deadline": "2024-07-11T00:00:00+08:00",
             "website": "https://pi.zju.edu.cn/2024/0620/c67820a2937382/page.htm",
             "tags": []
+        },
+        {
+            "name": "东南大学",
+            "institute": "电子科学与工程学院",
+            "description": "",
+            "deadline": "2024-08-11T12:00:00+08:00",
+            "website": "https://electronic.seu.edu.cn/2024/0625/c11479a495398/page.htm",
+            "tags": []
         }
     ],
-    "yutuimian2024": [
-        
-    ]
+    "yutuimian2024": []
 }
