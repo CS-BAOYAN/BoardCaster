@@ -3598,6 +3598,16 @@
             "tags": [
                 "研究院"
             ]
+        },
+        {
+            "name": "深圳大学",
+            "institute": "电子与信息工程学院",
+            "description": "",
+            "deadline": "2024-07-04T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/mxV8bHtcu_7Jy5dYyb3vaA",
+            "tags": [
+                "四非"
+            ]
         }
     ],
     "yutuimian2024": []
