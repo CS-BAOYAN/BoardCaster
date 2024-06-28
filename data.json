@@ -3684,6 +3684,17 @@
             "tags": [
                 "211"
             ]
+        },
+        {
+            "name": "华中科技大学",
+            "institute": "网络空间安全学院",
+            "description": "",
+            "deadline": "2024-07-02T00:00:00+08:00",
+            "website": "https://cse.hust.edu.cn/info/1079/4054.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ],
     "yutuimian2024": []
