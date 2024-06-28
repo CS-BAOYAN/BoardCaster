@@ -148,7 +148,7 @@
 
 ~~【截止日期：2024-06-26-00:00:00】[网络空间安全学院](https://icsr.zju.edu.cn/2024/0528/c70139a2924266/page.htm)~~
 
-【截止日期：2024-06-28-00:00:00】[浙江大学伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2616)
+~~【截止日期：2024-06-28-00:00:00】[浙江大学伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2616)~~
 
 ~~【截止日期：2024-06-17-00:00:00】[良渚实验室](http://liangzhulab.zju.edu.cn/index.php?c=index&a=show&catid=249&id=1534)~~
 
@@ -225,7 +225,7 @@
 
 ~~【截止日期：2024-06-26-00:00:00】[网络空间安全学院](https://cst.bit.edu.cn/xxfw/tzgg/2fa2fa019403455b9f92e96650f87f2b.htm)~~
 
-【截止日期：2024-06-28-00:00:00】[前沿交叉科学研究院](https://arims.bit.edu.cn/tz/c9af7401b6be49beb2fb5dbd31d84611.htm)
+~~【截止日期：2024-06-28-00:00:00】[前沿交叉科学研究院](https://arims.bit.edu.cn/tz/c9af7401b6be49beb2fb5dbd31d84611.htm)~~
 
 ~~【截止日期：2024-06-25-00:00:00】[北京理工大学珠海校区](https://mp.weixin.qq.com/s/vUKlPV9bX42xXCv9fEbnfQ)~~
 
@@ -264,7 +264,7 @@
 
 ~~【截止日期：2024-06-25-00:00:00】[网络空间安全学院](https://wlkjaqxy.nwpu.edu.cn/info/1044/7850.htm)~~
 
-【截止日期：2024-06-28-00:00:00】[光电与智能研究院](https://iopen.nwpu.edu.cn/info/1028/4836.htm)
+~~【截止日期：2024-06-28-00:00:00】[光电与智能研究院](https://iopen.nwpu.edu.cn/info/1028/4836.htm)~~
 
 ~~【截止日期：2024-06-25-00:00:00】[自动化学院](https://zdhxy.nwpu.edu.cn/info/1042/20643.htm)~~
 
@@ -305,7 +305,7 @@
 
 ~~【截止日期：2024-06-24-08:00:00】[软件学院](https://ss.dlut.edu.cn/info/1122/28802.htm)~~
 
-【截止日期：2024-06-28-00:00:00】[计算机学院](https://cs.dlut.edu.cn/info/1316/3519.htm)
+~~【截止日期：2024-06-28-00:00:00】[计算机学院](https://cs.dlut.edu.cn/info/1316/3519.htm)~~
 
 
 ## 华东师范大学
@@ -459,7 +459,7 @@
 
 ## 深圳医学科学院
 
-【截止日期：2024-06-28-00:00:00】[SMART-SZBL](https://mp.weixin.qq.com/s/0R-mbkijxFkc9iyy5CvrrA)
+~~【截止日期：2024-06-28-00:00:00】[SMART-SZBL](https://mp.weixin.qq.com/s/0R-mbkijxFkc9iyy5CvrrA)~~
 
 
 ## 四川大学
@@ -585,12 +585,12 @@
 
 ## 湖南科技大学
 
-【截止日期：2024-06-28-00:00:00】[计算机科学与工程学院](https://computer.hnust.edu.cn/tzgg/0a3d8112b0c544f4a6458a9be9810287.htm)
+~~【截止日期：2024-06-28-00:00:00】[计算机科学与工程学院](https://computer.hnust.edu.cn/tzgg/0a3d8112b0c544f4a6458a9be9810287.htm)~~
 
 
 ## 国防科技大学
 
-【截止日期：2024-06-28-00:00:00】[计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13803)
+~~【截止日期：2024-06-28-00:00:00】[计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13803)~~
 
 【截止日期：2024-07-03-18:00:00】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13819)
 
@@ -638,7 +638,7 @@
 
 ## 西南财经大学
 
-【截止日期：2024-06-28-00:00:00】[计算机与人工智能学院](https://it.swufe.edu.cn/info/1166/16538.htm)
+~~【截止日期：2024-06-28-00:00:00】[计算机与人工智能学院](https://it.swufe.edu.cn/info/1166/16538.htm)~~
 
 
 ## 南京农业大学
@@ -922,9 +922,9 @@
 
 ## 中国传媒大学
 
-【截止日期：2024-06-28-00:00:00】[数据科学与智能媒体学院](https://yz.cuc.edu.cn/_upload/article/files/ff/73/5ca1007c48f3937e1353362260a8/a213485c-f2b1-486f-bdd1-c9681d137e7c.pdf)
+~~【截止日期：2024-06-28-00:00:00】[数据科学与智能媒体学院](https://yz.cuc.edu.cn/_upload/article/files/ff/73/5ca1007c48f3937e1353362260a8/a213485c-f2b1-486f-bdd1-c9681d137e7c.pdf)~~
 
-【截止日期：2024-06-28-00:00:00】[计算机与网络通信学院](https://yz.cuc.edu.cn/_upload/article/files/ff/73/5ca1007c48f3937e1353362260a8/43747dea-79f9-4fb7-972e-2112bd84d477.pdf)
+~~【截止日期：2024-06-28-00:00:00】[计算机与网络通信学院](https://yz.cuc.edu.cn/_upload/article/files/ff/73/5ca1007c48f3937e1353362260a8/43747dea-79f9-4fb7-972e-2112bd84d477.pdf)~~
 
 
 ## 首都体育大学
