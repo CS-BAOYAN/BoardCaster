@@ -17,7 +17,7 @@
 
 ## 清华大学
 
-【截止日期：2024-07-01-00:00:00】[自动化系智能与网络化系统研究中心](https://mp.weixin.qq.com/s/l7kGbDxlcb5sOG3_1Bo0MQ)
+~~【截止日期：2024-07-01-00:00:00】[自动化系智能与网络化系统研究中心](https://mp.weixin.qq.com/s/l7kGbDxlcb5sOG3_1Bo0MQ)~~
 
 【截止日期：2024-09-02-00:00:00】[高等研究院](https://www.ias.tsinghua.edu.cn/zsxx.htm)
 
@@ -296,7 +296,7 @@
 
 ## 东北大学
 
-【截止日期：2024-07-01-00:00:00】[机器人科学与工程学院](http://www.rse.neu.edu.cn/2024/0612/c2147a256868/page.htm)
+~~【截止日期：2024-07-01-00:00:00】[机器人科学与工程学院](http://www.rse.neu.edu.cn/2024/0612/c2147a256868/page.htm)~~
 
 ~~【截止日期：2024-06-19-00:00:00】[软件学院](http://sc.neu.edu.cn/2024/0607/c141a256671/pagem.htm)~~
 
@@ -356,9 +356,9 @@
 
 ~~【截止日期：2024-06-29-00:00:00】[软件研究所](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/202405/t20240515_7162425.html)~~
 
-【截止日期：2024-07-01-00:00:00】[深圳先进技术研究院](https://siat.cas.cn/yjsjy2016/zsjs2016/202405/t20240527_7173055.html)
+~~【截止日期：2024-07-01-00:00:00】[深圳先进技术研究院](https://siat.cas.cn/yjsjy2016/zsjs2016/202405/t20240527_7173055.html)~~
 
-【截止日期：2024-07-01-00:00:00】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202405/t20240531_7176928.html)
+~~【截止日期：2024-07-01-00:00:00】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202405/t20240531_7176928.html)~~
 
 ~~【截止日期：2024-06-08-00:00:00】[计算所能力培养“春闱计划”](http://www.ict.ac.cn/xwgg/tzgg/202406/t20240603_7177750.html)~~
 
@@ -398,21 +398,21 @@
 
 ~~【截止日期：2024-06-26-00:00:00】[计算机科学与技术学院](https://xly.ustc.edu.cn/news.php?newsid=1004)~~
 
-【截止日期：2024-07-01-00:00:00】[人工智能与数据科学](https://m.xly.ustc.edu.cn/news.php?newsid=1023)
+~~【截止日期：2024-07-01-00:00:00】[人工智能与数据科学](https://m.xly.ustc.edu.cn/news.php?newsid=1023)~~
 
 ~~【截止日期：2024-06-27-00:00:00】[生命科学与医学部](https://xly.ustc.edu.cn/news.php?newsid=1001)~~
 
-【截止日期：2024-07-01-00:00:00】[信息科学技术学院](https://xly.ustc.edu.cn/news.php?newsid=1013)
+~~【截止日期：2024-07-01-00:00:00】[信息科学技术学院](https://xly.ustc.edu.cn/news.php?newsid=1013)~~
 
-【截止日期：2024-07-01-00:00:00】[网络空间安全学院](https://xly.ustc.edu.cn/news.php?newsid=987)
+~~【截止日期：2024-07-01-00:00:00】[网络空间安全学院](https://xly.ustc.edu.cn/news.php?newsid=987)~~
 
-【截止日期：2024-07-01-00:00:00】[苏州高等研究院](https://sz.ustc.edu.cn/cn_mobile/xwgg_show/1574.html)
+~~【截止日期：2024-07-01-00:00:00】[苏州高等研究院](https://sz.ustc.edu.cn/cn_mobile/xwgg_show/1574.html)~~
 
-【截止日期：2024-07-01-00:00:00】[先进技术研究院](https://xly.ustc.edu.cn/news.php?newsid=994)
+~~【截止日期：2024-07-01-00:00:00】[先进技术研究院](https://xly.ustc.edu.cn/news.php?newsid=994)~~
 
-【截止日期：2024-07-01-00:00:00】[研究生院科学岛分院、环光学院](https://xly.ustc.edu.cn/news.php?newsid=1003)
+~~【截止日期：2024-07-01-00:00:00】[研究生院科学岛分院、环光学院](https://xly.ustc.edu.cn/news.php?newsid=1003)~~
 
-【截止日期：2024-07-01-00:00:00】[微电子学院](https://sme.ustc.edu.cn/2024/0603/c31027a642813/page.htm)
+~~【截止日期：2024-07-01-00:00:00】[微电子学院](https://sme.ustc.edu.cn/2024/0603/c31027a642813/page.htm)~~
 
 【截止日期：N/A】[东方理工专项](https://www.eitech.edu.cn/?admission=中国科学技术大学（东方理工专项）2025级本科直博)
 
@@ -436,9 +436,9 @@
 
 ~~【截止日期：2024-06-24-00:00:00】[信息科学与技术学院](https://sist.shanghaitech.edu.cn/2024/0513/c7339a1096341/page.htm)~~
 
-【截止日期：2024-07-01-00:00:00】[临港实验室](https://www.lglab.ac.cn/sylbt/202404/t20240425_212225.html)
+~~【截止日期：2024-07-01-00:00:00】[临港实验室](https://www.lglab.ac.cn/sylbt/202404/t20240425_212225.html)~~
 
-【截止日期：2024-07-01-00:00:00】[生物医学工程学院](https://mp.weixin.qq.com/s/QCbT2n5klB_LY0XLUvd-bQ)
+~~【截止日期：2024-07-01-00:00:00】[生物医学工程学院](https://mp.weixin.qq.com/s/QCbT2n5klB_LY0XLUvd-bQ)~~
 
 ~~【截止日期：2024-06-29-00:00:00】[智能科技学院](http://github.com/)~~
 
@@ -456,7 +456,7 @@
 
 ## 北京计算科学研究中心
 
-【截止日期：2024-07-01-00:00:00】[北京计算科学研究中心](https://www.csrc.ac.cn/en/event/schools/2024-05-29/109.html)
+~~【截止日期：2024-07-01-00:00:00】[北京计算科学研究中心](https://www.csrc.ac.cn/en/event/schools/2024-05-29/109.html)~~
 
 
 ## 深圳医学科学院
@@ -489,9 +489,9 @@
 
 ~~【截止日期：2024-06-26-00:00:00】[软件学院](https://www.sc.sdu.edu.cn/info/1019/4710.htm)~~
 
-【截止日期：2024-07-01-00:00:00】[网络空间安全学院](https://cst.qd.sdu.edu.cn/info/1023/3194.htm)
+~~【截止日期：2024-07-01-00:00:00】[网络空间安全学院](https://cst.qd.sdu.edu.cn/info/1023/3194.htm)~~
 
-【截止日期：2024-07-01-00:00:00】[机电与信息工程学院](https://ie.wh.sdu.edu.cn/info/1007/14342.htm)
+~~【截止日期：2024-07-01-00:00:00】[机电与信息工程学院](https://ie.wh.sdu.edu.cn/info/1007/14342.htm)~~
 
 ~~【截止日期：2024-06-12-00:00:00】[数学国家高层次人才培养中心](https://www.math.sdu.edu.cn/info/1031/19849.htm)~~
 
@@ -509,14 +509,14 @@
 
 ~~【截止日期：2024-06-27-00:00:00】[重庆卓越工程师学院](https://eie.cqu.edu.cn/info/1483/2569.htm)~~
 
-【截止日期：2024-07-01-00:00:00】[电气工程学院](http://www.cee.cqu.edu.cn/info/3542/19705.htm)
+~~【截止日期：2024-07-01-00:00:00】[电气工程学院](http://www.cee.cqu.edu.cn/info/3542/19705.htm)~~
 
-【截止日期：2024-07-01-00:00:00】[计算机学院](https://mp.weixin.qq.com/s?__biz=Mzg2MjEwNTQwMw==&mid=2247491081&idx=1&sn=8dc10174de580a0d2b8e466c0f46016c)
+~~【截止日期：2024-07-01-00:00:00】[计算机学院](https://mp.weixin.qq.com/s?__biz=Mzg2MjEwNTQwMw==&mid=2247491081&idx=1&sn=8dc10174de580a0d2b8e466c0f46016c)~~
 
 
 ## 深圳大学
 
-【截止日期：2024-07-01-00:00:00】[计算机与软件学院](https://mp.weixin.qq.com/s/2mzeis4AAbb_lPSoBnUO2g)
+~~【截止日期：2024-07-01-00:00:00】[计算机与软件学院](https://mp.weixin.qq.com/s/2mzeis4AAbb_lPSoBnUO2g)~~
 
 【截止日期：2024-07-16-00:00:00】[光明实验室](https://mp.weixin.qq.com/s/P_-L3Zfi5s2UMsORAUMyvw)
 
@@ -551,7 +551,7 @@
 
 ## 北京工业大学
 
-【截止日期：2024-07-01-00:00:00】[计算机学院](https://yanzhao.bjut.edu.cn/info/1025/15888.htm)
+~~【截止日期：2024-07-01-00:00:00】[计算机学院](https://yanzhao.bjut.edu.cn/info/1025/15888.htm)~~
 
 
 ## 江南大学
@@ -577,12 +577,12 @@
 
 ## 上海理工大学
 
-【截止日期：2024-07-01-00:00:00】[光电信息与计算机工程学院](https://mp.weixin.qq.com/s/Bhn-cjIlV3m6ebWBTFdm-g)
+~~【截止日期：2024-07-01-00:00:00】[光电信息与计算机工程学院](https://mp.weixin.qq.com/s/Bhn-cjIlV3m6ebWBTFdm-g)~~
 
 
 ## 湘潭大学
 
-【截止日期：2024-07-01-00:00:00】[自动化与电子信息学院](https://aei.xtu.edu.cn/info/1039/3728.htm)
+~~【截止日期：2024-07-01-00:00:00】[自动化与电子信息学院](https://aei.xtu.edu.cn/info/1039/3728.htm)~~
 
 
 ## 湖南科技大学
@@ -609,7 +609,7 @@
 
 ## 海南大学
 
-【截止日期：2024-07-01-00:00:00】[生物医学工程学院](https://bme.hainanu.edu.cn/info/1051/5301.htm)
+~~【截止日期：2024-07-01-00:00:00】[生物医学工程学院](https://bme.hainanu.edu.cn/info/1051/5301.htm)~~
 
 
 ## 东华大学
@@ -626,7 +626,7 @@
 
 ## 西南交通大学
 
-【截止日期：2024-07-01-00:00:00】[计算机与人工智能学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=7E608E004C10BCB6)
+~~【截止日期：2024-07-01-00:00:00】[计算机与人工智能学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=7E608E004C10BCB6)~~
 
 ~~【截止日期：2024-06-24-00:00:00】[电气工程学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=0C2FA997A26A107A)~~
 
@@ -905,14 +905,14 @@
 
 ## 新疆大学
 
-【截止日期：2024-07-01-00:00:00】[软件学院](https://ss.xju.edu.cn/__local/E/8D/CD/35B431163E1EFE73225ECAF1C0B_53070F25_477F0.pdf)
+~~【截止日期：2024-07-01-00:00:00】[软件学院](https://ss.xju.edu.cn/__local/E/8D/CD/35B431163E1EFE73225ECAF1C0B_53070F25_477F0.pdf)~~
 
 【截止日期：2024-07-02-00:00:00】[计算机学院](https://it.xju.edu.cn/info/1101/3167.htm)
 
 
 ## 河海大学
 
-【截止日期：2024-07-01-00:00:00】[计算机学院](https://cies.hhu.edu.cn/2024/0624/c4093a285216/page.htm)
+~~【截止日期：2024-07-01-00:00:00】[计算机学院](https://cies.hhu.edu.cn/2024/0624/c4093a285216/page.htm)~~
 
 【截止日期：2024-07-01-12:00:00】[人工智能与自动化学院](https://ai.hhu.edu.cn/2024/0625/c15659a285496/page.htm)
 
@@ -936,7 +936,7 @@
 
 ## 北京外国语大学
 
-【截止日期：2024-07-01-00:00:00】[人工智能与人类语言重点实验室](https://mp.weixin.qq.com/s/jE5zh70IbsyPVdXKUnJ6QA)
+~~【截止日期：2024-07-01-00:00:00】[人工智能与人类语言重点实验室](https://mp.weixin.qq.com/s/jE5zh70IbsyPVdXKUnJ6QA)~~
 
 
 ## 中国航天科工集团第二研究院
