@@ -604,7 +604,7 @@
 
 ~~【截止日期：2024-06-28-00:00:00】[计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13803)~~
 
-【截止日期：2024-07-03-18:00:00】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13819)
+~~【截止日期：2024-07-03-18:00:00】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13819)~~
 
 
 ## 哈尔滨工程大学
