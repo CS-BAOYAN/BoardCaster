@@ -645,7 +645,7 @@
 
 ~~【截止日期：2024-06-26-00:00:00】[计算机科学与工程学院](https://cs.njust.edu.cn/1f/a8/c1820a335784/page.htm)~~
 
-【截止日期：2024-07-03-00:00:00】[网络空间安全学院](https://mp.weixin.qq.com/s/MAAb5REsBRIUQcjkUrdpJg)
+~~【截止日期：2024-07-03-00:00:00】[网络空间安全学院](https://mp.weixin.qq.com/s/MAAb5REsBRIUQcjkUrdpJg)~~
 
 
 ## 西南财经大学
