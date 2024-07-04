@@ -530,7 +530,7 @@
 
 【截止日期：2024-07-15-00:00:00】[大数据系统计算技术国家工程实验室](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)
 
-【截止日期：2024-07-04-00:00:00】[电子与信息工程学院](https://mp.weixin.qq.com/s/mxV8bHtcu_7Jy5dYyb3vaA)
+~~【截止日期：2024-07-04-00:00:00】[电子与信息工程学院](https://mp.weixin.qq.com/s/mxV8bHtcu_7Jy5dYyb3vaA)~~
 
 【截止日期：2024-07-08-12:00:00】[医学部生物医学工程学院](https://mp.weixin.qq.com/s/GI7xDwhwgkx7uc1KwwFkJg)
 
@@ -582,7 +582,7 @@
 
 ~~【截止日期：2024-07-02-00:00:00】[信息学院](https://ie.cufe.edu.cn/info/1341/6668.htm)~~
 
-【截止日期：2024-07-04-00:00:00】[会计学院AI+MPAcc项目](https://soa.cufe.edu.cn/info/1180/7056.htm)
+~~【截止日期：2024-07-04-00:00:00】[会计学院AI+MPAcc项目](https://soa.cufe.edu.cn/info/1180/7056.htm)~~
 
 
 ## 上海理工大学
