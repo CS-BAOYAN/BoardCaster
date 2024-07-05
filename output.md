@@ -966,7 +966,7 @@
 
 ## 云南大学
 
-【截止日期：2024-07-05-12:00:00】[软件学院](http://www.sei.ynu.edu.cn/info/1057/2332.htm)
+~~【截止日期：2024-07-05-12:00:00】[软件学院](http://www.sei.ynu.edu.cn/info/1057/2332.htm)~~
 
 【截止日期：2024-07-06-00:00:00】[信息学院](http://www.ise.ynu.edu.cn/annunciations/281)
 
