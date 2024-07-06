@@ -534,7 +534,7 @@
 
 【截止日期：2024-07-08-12:00:00】[医学部生物医学工程学院](https://mp.weixin.qq.com/s/GI7xDwhwgkx7uc1KwwFkJg)
 
-【截止日期：2024-07-06-00:00:00】[深圳大学大湾区国际创新学院](https://ma.szu.edu.cn/info/1100/8373.htm)
+~~【截止日期：2024-07-06-00:00:00】[深圳大学大湾区国际创新学院](https://ma.szu.edu.cn/info/1100/8373.htm)~~
 
 
 ## 首都师范大学
@@ -549,7 +549,7 @@
 
 ## 北京语言大学
 
-【截止日期：2024-07-06-00:00:00】[语言智能研究院](https://mp.weixin.qq.com/s/-mgDyLPzizPcuSOh2j-T-w)
+~~【截止日期：2024-07-06-00:00:00】[语言智能研究院](https://mp.weixin.qq.com/s/-mgDyLPzizPcuSOh2j-T-w)~~
 
 
 ## 华中师范大学
@@ -956,19 +956,19 @@
 
 ## 军事科学院
 
-【截止日期：2024-07-06-00:00:00】[第五届“强军之星”优秀大学生夏令营](https://mp.weixin.qq.com/s/iDBPucqozYMYyny0MfjJuA)
+~~【截止日期：2024-07-06-00:00:00】[第五届“强军之星”优秀大学生夏令营](https://mp.weixin.qq.com/s/iDBPucqozYMYyny0MfjJuA)~~
 
 
 ## 浙江工业大学
 
-【截止日期：2024-07-06-00:00:00】[信息工程学院](https://mp.weixin.qq.com/s/ixg1TUkRsV7qV0QlCU3rWg)
+~~【截止日期：2024-07-06-00:00:00】[信息工程学院](https://mp.weixin.qq.com/s/ixg1TUkRsV7qV0QlCU3rWg)~~
 
 
 ## 云南大学
 
 ~~【截止日期：2024-07-05-12:00:00】[软件学院](http://www.sei.ynu.edu.cn/info/1057/2332.htm)~~
 
-【截止日期：2024-07-06-00:00:00】[信息学院](http://www.ise.ynu.edu.cn/annunciations/281)
+~~【截止日期：2024-07-06-00:00:00】[信息学院](http://www.ise.ynu.edu.cn/annunciations/281)~~
 
 
 ## 华北电力大学
