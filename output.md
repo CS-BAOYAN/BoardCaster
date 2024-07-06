@@ -1000,3 +1000,8 @@
 
 【截止日期：2024-07-09-00:00:00】[通信与信息工程学院](https://mp.weixin.qq.com/s?__biz=MzU0NDAxNDkyNA==&mid=2247502507&idx=1&sn=a919d9b0079e511ec17e2d8738b3bb47)
 
+
+## 鹏城实验室
+
+【截止日期：2024-07-15-00:00:00】[鹏城博士夏令营](https://yzw.pcl.ac.cn/yzs_new/zsxxxq/index?id=7ae364bdaed74eeaa02bee310faca034&xxlm=03)
+
