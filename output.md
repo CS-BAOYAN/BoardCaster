@@ -1005,3 +1005,8 @@
 
 【截止日期：2024-07-15-00:00:00】[鹏城博士夏令营](https://yzw.pcl.ac.cn/yzs_new/zsxxxq/index?id=7ae364bdaed74eeaa02bee310faca034&xxlm=03)
 
+
+## 北京科技大学
+
+【截止日期：2024-07-13-00:00:00】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-07-03/2086.html)
+
