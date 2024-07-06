@@ -1012,3 +1012,8 @@
 
 【截止日期：2024-07-13-00:00:00】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-07-03/2086.html)
 
+
+## 中国地质大学（北京）
+
+【截止日期：N/A】[公书慧课题组](https://mp.weixin.qq.com/s/QdDXY71BdEvw6EgKNHBZqQ)
+
