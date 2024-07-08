@@ -455,7 +455,7 @@
 
 ~~【截止日期：2024-07-02-00:00:00】[软件学院](http://sse.bjtu.edu.cn/cms/item/995.html)~~
 
-【截止日期：2024-07-08-12:00:00】[计算机科学与技术学院](https://cs.bjtu.edu.cn/tzgg/202312183.htm)
+~~【截止日期：2024-07-08-12:00:00】[计算机科学与技术学院](https://cs.bjtu.edu.cn/tzgg/202312183.htm)~~
 
 ~~【截止日期：2024-06-24-00:00:00】[电子信息工程学院](http://eie.bjtu.edu.cn/WebHtml/newsDetailsPage/1AD28E2E09B3CE23E060403B570306E9)~~
 
@@ -532,7 +532,7 @@
 
 ~~【截止日期：2024-07-04-00:00:00】[电子与信息工程学院](https://mp.weixin.qq.com/s/mxV8bHtcu_7Jy5dYyb3vaA)~~
 
-【截止日期：2024-07-08-12:00:00】[医学部生物医学工程学院](https://mp.weixin.qq.com/s/GI7xDwhwgkx7uc1KwwFkJg)
+~~【截止日期：2024-07-08-12:00:00】[医学部生物医学工程学院](https://mp.weixin.qq.com/s/GI7xDwhwgkx7uc1KwwFkJg)~~
 
 ~~【截止日期：2024-07-06-00:00:00】[深圳大学大湾区国际创新学院](https://ma.szu.edu.cn/info/1100/8373.htm)~~
 
