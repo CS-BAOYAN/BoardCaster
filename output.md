@@ -953,7 +953,7 @@
 
 ## 中国航天科工集团第二研究院
 
-【截止日期：2024-07-14-17:00:00】[航天二院](https://mp.weixin.qq.com/s/3KIvIBFdgNSv5yP5Pzp5dQ)
+~~【截止日期：2024-07-14-17:00:00】[航天二院](https://mp.weixin.qq.com/s/3KIvIBFdgNSv5yP5Pzp5dQ)~~
 
 
 ## 军事科学院
