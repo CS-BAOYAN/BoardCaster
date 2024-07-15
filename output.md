@@ -528,7 +528,7 @@
 
 【截止日期：2024-07-16-00:00:00】[光明实验室](https://mp.weixin.qq.com/s/P_-L3Zfi5s2UMsORAUMyvw)
 
-【截止日期：2024-07-15-00:00:00】[大数据系统计算技术国家工程实验室](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)
+~~【截止日期：2024-07-15-00:00:00】[大数据系统计算技术国家工程实验室](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)~~
 
 ~~【截止日期：2024-07-04-00:00:00】[电子与信息工程学院](https://mp.weixin.qq.com/s/mxV8bHtcu_7Jy5dYyb3vaA)~~
 
@@ -1005,7 +1005,7 @@
 
 ## 鹏城实验室
 
-【截止日期：2024-07-15-00:00:00】[鹏城博士夏令营](https://yzw.pcl.ac.cn/yzs_new/zsxxxq/index?id=7ae364bdaed74eeaa02bee310faca034&xxlm=03)
+~~【截止日期：2024-07-15-00:00:00】[鹏城博士夏令营](https://yzw.pcl.ac.cn/yzs_new/zsxxxq/index?id=7ae364bdaed74eeaa02bee310faca034&xxlm=03)~~
 
 
 ## 北京科技大学
