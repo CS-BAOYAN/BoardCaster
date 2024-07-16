@@ -119,7 +119,7 @@
 
 ## 南京大学
 
-【截止日期：2024-07-16-00:00:00】[匡亚明学院](https://dii.nju.edu.cn/89/f5/c15501a690677/page.htm)
+~~【截止日期：2024-07-16-00:00:00】[匡亚明学院](https://dii.nju.edu.cn/89/f5/c15501a690677/page.htm)~~
 
 ~~【截止日期：2024-06-15-00:00:00】[电子科学与工程学院](https://ese.nju.edu.cn/75/bb/c22673a685499/page.htm)~~
 
@@ -526,7 +526,7 @@
 
 ~~【截止日期：2024-07-01-00:00:00】[计算机与软件学院](https://mp.weixin.qq.com/s/2mzeis4AAbb_lPSoBnUO2g)~~
 
-【截止日期：2024-07-16-00:00:00】[光明实验室](https://mp.weixin.qq.com/s/P_-L3Zfi5s2UMsORAUMyvw)
+~~【截止日期：2024-07-16-00:00:00】[光明实验室](https://mp.weixin.qq.com/s/P_-L3Zfi5s2UMsORAUMyvw)~~
 
 ~~【截止日期：2024-07-15-00:00:00】[大数据系统计算技术国家工程实验室](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)~~
 
