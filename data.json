@@ -4036,6 +4036,16 @@
             "tags": [
                 "211"
             ]
+        },
+        {
+            "name": "西安电子科技大学",
+            "institute": "计算机科学与技术学院",
+            "description": "",
+            "deadline": "2024-09-11T00:00:00+08:00",
+            "website": "https://cs.xidian.edu.cn/info/1003/16583.htm",
+            "tags": [
+                "211"
+            ]
         }
     ]
 }
