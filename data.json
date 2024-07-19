@@ -3933,5 +3933,19 @@
             ]
         }
     ],
-    "yutuimian2024": []
+    "yutuimian2024": [
+        {
+            "name": "清华大学",
+            "institute": "高等研究院",
+            "description": "",
+            "deadline": "2024-09-02T00:00:00+08:00",
+            "website": "https://www.ias.tsinghua.edu.cn/zsxx.htm",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        }
+    ]
 }
