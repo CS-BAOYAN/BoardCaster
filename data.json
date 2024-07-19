@@ -4086,6 +4086,16 @@
             "tags": [
                 "研究院"
             ]
+        },
+        {
+            "name": "南京邮电大学",
+            "institute": "自动化学院、人工智能学院",
+            "description": "",
+            "deadline": "2024-08-09T00:00:00+08:00",
+            "website": "https://coa.njupt.edu.cn/2024/0701/c2277a267160/page.htm",
+            "tags": [
+                "双非"
+            ]
         }
     ]
 }
