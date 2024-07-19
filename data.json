@@ -3960,6 +3960,17 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "东南大学",
+            "institute": "PALM实验室",
+            "description": "",
+            "deadline": "",
+            "website": "https://palm.seu.edu.cn/application.html",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
