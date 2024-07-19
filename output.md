@@ -1035,3 +1035,8 @@
 
 【截止日期：2024-09-11-00:00:00】[人工智能学院](https://sai.xidian.edu.cn/info/1106/9371.htm)
 
+
+## 中国电力科学研究院
+
+【截止日期：2024-07-29-00:00:00】[中国电力科学研究院](https://mp.weixin.qq.com/s/BodvsTQ_CRzTGmUcEFboCA)
+
