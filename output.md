@@ -382,8 +382,6 @@
 
 ~~【截止日期：2024-01-18-00:00:00】[沈阳自动化研究所](https://mp.weixin.qq.com/s/6FkXmGk-vdqoBRAq4BbQ2g)~~
 
-【截止日期：2024-12-24-00:00:00】[上海高等研究院](https://mp.weixin.qq.com/s/JbVEal_anIerR6T0QVMjwA)
-
 
 ## 中国科学院大学
 
