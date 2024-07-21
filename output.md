@@ -645,7 +645,7 @@
 
 ~~【截止日期：2024-07-03-00:00:00】[网络空间安全学院](https://mp.weixin.qq.com/s/MAAb5REsBRIUQcjkUrdpJg)~~
 
-【截止日期：2024-07-21-00:00:00】[智能计算成像实验室（SCILab）](https://scilaboratory.com/h-nd-655.html)
+~~【截止日期：2024-07-21-00:00:00】[智能计算成像实验室（SCILab）](https://scilaboratory.com/h-nd-655.html)~~
 
 
 ## 西南财经大学
