@@ -4220,6 +4220,16 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "沈阳自动化研究所",
+            "description": "",
+            "deadline": "2024-08-13T00:00:00+08:00",
+            "website": "http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html",
+            "tags": [
+                "研究院"
+            ]
         }
     ]
 }
