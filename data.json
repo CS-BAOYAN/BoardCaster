@@ -4292,6 +4292,16 @@
             "tags": [
                 "211"
             ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "计算机科学与技术学院",
+            "description": "",
+            "deadline": "2024-07-28T17:00:00+08:00",
+            "website": "http://www.ict.ac.cn/xwgg/tzgg/202407/t20240722_7232718.html",
+            "tags": [
+                "研究院"
+            ]
         }
     ]
 }
