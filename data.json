@@ -4230,6 +4230,16 @@
             "tags": [
                 "研究院"
             ]
+        },
+        {
+            "name": "中国医科大学",
+            "institute": "智能医学学院",
+            "description": "",
+            "deadline": "",
+            "website": "https://www.cmu.edu.cn/znyx/info/1011/1621.htm",
+            "tags": [
+                "四非"
+            ]
         }
     ]
 }
