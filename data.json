@@ -4271,6 +4271,17 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "北京师范大学",
+            "institute": "人工智能学院",
+            "description": "",
+            "deadline": "2024-08-12T00:00:00+08:00",
+            "website": "https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
