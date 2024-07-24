@@ -4260,6 +4260,17 @@
             "tags": [
                 "双非"
             ]
+        },
+        {
+            "name": "国防科技大学",
+            "institute": "国防科技大学",
+            "description": "预计9月7日00:00至9月22日24:00",
+            "deadline": "2024-09-23T00:00:00+08:00",
+            "website": "http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13804",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
