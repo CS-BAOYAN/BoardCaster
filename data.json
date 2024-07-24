@@ -4282,6 +4282,16 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "西北大学",
+            "institute": "西北大学",
+            "description": "",
+            "deadline": "2024-09-21T00:00:00+08:00",
+            "website": "https://yjs.nwu.edu.cn/info/1104/4676.htm",
+            "tags": [
+                "211"
+            ]
         }
     ]
 }
