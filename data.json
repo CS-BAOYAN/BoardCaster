@@ -4345,6 +4345,16 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "空军工程大学",
+            "institute": "空军工程大学",
+            "description": "",
+            "deadline": "2024-08-08T18:00:00+08:00",
+            "website": "https://www.afeu.cn:1001/notice-announcement/462/",
+            "tags": [
+                "四非"
+            ]
         }
     ]
 }
