@@ -4494,6 +4494,17 @@
                 "211",
                 "C9"
             ]
+        },
+        {
+            "name": "天津大学",
+            "institute": "“国优计划”专项",
+            "description": "",
+            "deadline": "2024-09-06T00:00:00+08:00",
+            "website": "https://cic.tju.edu.cn/info/1041/5013.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
