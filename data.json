@@ -4302,6 +4302,18 @@
             "tags": [
                 "研究院"
             ]
+        },
+        {
+            "name": "哈尔滨工业大学",
+            "institute": "哈工大郑州研究院",
+            "description": "",
+            "deadline": "2024-08-06T18:00:00+08:00",
+            "website": "https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm",
+            "tags": [
+                "C9",
+                "985",
+                "211"
+            ]
         }
     ]
 }
