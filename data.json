@@ -4449,6 +4449,16 @@
             "tags": [
                 "研究院"
             ]
+        },
+        {
+            "name": "北京科技大学",
+            "institute": "智能科学与技术学院",
+            "description": "",
+            "deadline": "2024-08-30T17:00:00+08:00",
+            "website": "https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm",
+            "tags": [
+                "211"
+            ]
         }
     ]
 }
