@@ -4439,6 +4439,16 @@
             "tags": [
                 "双非"
             ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "软件所",
+            "description": "",
+            "deadline": "",
+            "website": "http://www.is.cas.cn/yjsjy2016/zsxx2016/202408/t20240801_7238784.html",
+            "tags": [
+                "研究院"
+            ]
         }
     ]
 }
