@@ -4355,6 +4355,18 @@
             "tags": [
                 "四非"
             ]
+        },
+        {
+            "name": "哈尔滨工业大学",
+            "institute": "计算学部",
+            "description": "",
+            "deadline": "2024-08-05T17:00:00+08:00",
+            "website": "https://computing.hit.edu.cn/2024/0729/c11271a349512/page.htm",
+            "tags": [
+                "985",
+                "211",
+                "C9"
+            ]
         }
     ]
 }
