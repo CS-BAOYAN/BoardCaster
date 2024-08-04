@@ -4399,6 +4399,16 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "北京工商大学",
+            "institute": "计算机与人工智能学院",
+            "description": "",
+            "deadline": "2024-08-17T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/dRpnxnVw_lUCZtybOavvYA",
+            "tags": [
+                "四非"
+            ]
         }
     ]
 }
