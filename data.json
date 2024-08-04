@@ -4324,6 +4324,16 @@
             "tags": [
                 "研究院"
             ]
+        },
+        {
+            "name": "西安电子科技大学",
+            "institute": "网络与信息安全学院",
+            "description": "",
+            "deadline": "2024-09-26T00:00:00+08:00",
+            "website": "https://ce.xidian.edu.cn/info/1324/9854.htm",
+            "tags": [
+                "211"
+            ]
         }
     ]
 }
