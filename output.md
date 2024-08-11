@@ -167,7 +167,7 @@
 
 【截止日期：N/A】[东南大学PALM实验室](https://palm.seu.edu.cn/application.html)
 
-【截止日期：2024-08-11-12:00:00】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/page.htm)
+~~【截止日期：2024-08-11-12:00:00】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/page.htm)~~
 
 ~~【截止日期：2024-08-05-12:00:00】[网络空间安全学院](https://cyber.seu.edu.cn/2024/0627/c18223a495771/page.htm)~~
 
