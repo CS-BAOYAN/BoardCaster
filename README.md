@@ -16,6 +16,8 @@ close issue 操作请由管理员审核后（是否合规）进行操作，其�
 
 <img src="./assets/IssueWorkflow.png" alt="workflow" style="display: block; margin: 0 auto; zoom: 20%;">
 
+一些或许需要注意的内容包括，DDL 采用东八区时间（北京时间），对于某一天截至的 DDL，时间被标记为第二天的零点。Tags 支持自动填写 TOP2/华五/C9/985/211/双非/四非，若填写院校完全符合以上内容，Tags 可留空。
+
 ### 修改信息
 
 假如说贡献者计划修改信息，可以通过正常的开源流程进行commit。

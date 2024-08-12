@@ -53,6 +53,27 @@ if not new_entry["tags"]:
     # 如果没有找到
     if not found:
         new_entry["tags"].append("四非")
+    
+    with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
+        reader = csv.reader(csvfile)
+        for row in reader:
+            if row[3] == name:
+                new_entry["tags"].attend(["TOP2"])
+                break
+            
+    with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
+        reader = csv.reader(csvfile)
+        for row in reader:
+            if row[4] == name:
+                new_entry["tags"].attend(["华五"])
+                break
+            
+    with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
+        reader = csv.reader(csvfile)
+        for row in reader:
+            if row[5] == name:
+                new_entry["tags"].attend(["C9"])
+                break
 
 # 检查是否存在完全一致的条目
 found = False
