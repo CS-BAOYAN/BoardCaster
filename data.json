@@ -4603,6 +4603,16 @@
                 "华五",
                 "C9"
             ]
+        },
+        {
+            "name": "北京科技大学",
+            "institute": "计算机与通信工程学院",
+            "description": "",
+            "deadline": "2024-08-30T23:59:00+08:00",
+            "website": "https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-08-10/2093.html",
+            "tags": [
+                "211"
+            ]
         }
     ]
 }
