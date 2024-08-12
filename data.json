@@ -4505,6 +4505,16 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "上海科技大学",
+            "institute": "生物医学工程学院",
+            "description": "",
+            "deadline": "2024-09-02T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/VXEDVffNuJ35tzpaYm7yVw",
+            "tags": [
+                "双非"
+            ]
         }
     ]
 }
