@@ -21,6 +21,7 @@ new_entry = {
 if not new_entry["tags"]:
     csv_file_path = '92.csv'
     found = False
+    name = new_entry["name"]
 
     # 第一列查找
     with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
