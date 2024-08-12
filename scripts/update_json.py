@@ -60,21 +60,21 @@ if not new_entry["tags"]:
         reader = csv.reader(csvfile)
         for row in reader:
             if row[3] == name:
-                new_entry["tags"].append(["TOP2"])
+                new_entry["tags"].append("TOP2")
                 break
             
     with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
         reader = csv.reader(csvfile)
         for row in reader:
             if row[4] == name:
-                new_entry["tags"].append(["华五"])
+                new_entry["tags"].append("华五")
                 break
             
     with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
         reader = csv.reader(csvfile)
         for row in reader:
             if row[5] == name:
-                new_entry["tags"].append(["C9"])
+                new_entry["tags"].append("C9")
                 break
 
 # 检查是否存在完全一致的条目
