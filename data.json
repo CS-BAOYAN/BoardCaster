@@ -4613,6 +4613,19 @@
             "tags": [
                 "211"
             ]
+        },
+        {
+            "name": "浙江大学",
+            "institute": "计算机学院",
+            "description": "",
+            "deadline": "2024-09-07T00:00:00+08:00",
+            "website": "http://www.cs.zju.edu.cn/csen/2024/0810/c27006a2952625/page.htm",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
         }
     ]
 }
