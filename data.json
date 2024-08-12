@@ -4567,6 +4567,17 @@
                 "华五",
                 "C9"
             ]
+        },
+        {
+            "name": "天津大学",
+            "institute": "卓越工程师导师团",
+            "description": "",
+            "deadline": "2024-08-31T00:00:00+08:00",
+            "website": "http://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240807_323857.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
