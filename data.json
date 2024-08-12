@@ -4541,6 +4541,19 @@
                 "华五",
                 "C9"
             ]
+        },
+        {
+            "name": "南京大学",
+            "institute": "智能科学与技术学院",
+            "description": "",
+            "deadline": "2024-09-08T23:59:59+08:00",
+            "website": "https://is.nju.edu.cn/cc/fe/c57160a707838/page.htm",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
         }
     ]
 }
