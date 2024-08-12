@@ -4590,6 +4590,19 @@
                 "211",
                 "C9"
             ]
+        },
+        {
+            "name": "浙江大学",
+            "institute": "软件学院",
+            "description": "",
+            "deadline": "2024-09-11T00:00:00+08:00",
+            "website": "http://www.cst.zju.edu.cn/2024/0811/c32178a2952716/page.htm",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
         }
     ]
 }
