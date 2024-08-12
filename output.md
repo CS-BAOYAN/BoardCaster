@@ -167,13 +167,13 @@
 
 【截止日期：N/A】[东南大学PALM实验室](https://palm.seu.edu.cn/application.html)
 
-【截止日期：2024-08-11-12:00:00】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/page.htm)
+~~【截止日期：2024-08-11-12:00:00】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/page.htm)~~
 
-【截止日期：2024-08-05-12:00:00】[网络空间安全学院](https://cyber.seu.edu.cn/2024/0627/c18223a495771/page.htm)
+~~【截止日期：2024-08-05-12:00:00】[网络空间安全学院](https://cyber.seu.edu.cn/2024/0627/c18223a495771/page.htm)~~
 
-【截止日期：2024-08-02-00:00:00】[自动化学院](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)
+~~【截止日期：2024-08-02-00:00:00】[自动化学院](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)~~
 
-【截止日期：2024-08-09-00:00:00】[信息科学与工程学院](https://radio.seu.edu.cn/2024/0630/c19195a496042/pagem.htm)
+~~【截止日期：2024-08-09-00:00:00】[信息科学与工程学院](https://radio.seu.edu.cn/2024/0630/c19195a496042/pagem.htm)~~
 
 
 ## 华中科技大学
@@ -220,13 +220,13 @@
 
 ## 北京邮电大学
 
-【截止日期：2024-08-01-00:00:00】[电子工程学院](https://see.bupt.edu.cn/info/1047/2741.htm)
+~~【截止日期：2024-08-01-00:00:00】[电子工程学院](https://see.bupt.edu.cn/info/1047/2741.htm)~~
 
 ~~【截止日期：2024-06-24-00:00:00】[计算机学院](https://scs.bupt.edu.cn/info/1050/3886.htm)~~
 
 ~~【截止日期：2024-06-24-00:00:00】[人工智能学院](https://ai.bupt.edu.cn/info/1065/3416.htm)~~
 
-【截止日期：2024-08-01-00:00:00】[信息与通信工程学院](https://sice.bupt.edu.cn/info/1013/2326.htm)
+~~【截止日期：2024-08-01-00:00:00】[信息与通信工程学院](https://sice.bupt.edu.cn/info/1013/2326.htm)~~
 
 ~~【截止日期：2024-06-26-00:00:00】[网络空间安全学院](https://scss.bupt.edu.cn/info/1110/5595.htm)~~
 
@@ -381,8 +381,6 @@
 ~~【截止日期：2024-06-21-00:00:00】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202404/t20240429_7141703.html)~~
 
 ~~【截止日期：2024-01-18-00:00:00】[沈阳自动化研究所](https://mp.weixin.qq.com/s/6FkXmGk-vdqoBRAq4BbQ2g)~~
-
-【截止日期：2024-12-24-00:00:00】[上海高等研究院](https://mp.weixin.qq.com/s/JbVEal_anIerR6T0QVMjwA)
 
 
 ## 中国科学院大学
@@ -647,7 +645,7 @@
 
 ~~【截止日期：2024-07-03-00:00:00】[网络空间安全学院](https://mp.weixin.qq.com/s/MAAb5REsBRIUQcjkUrdpJg)~~
 
-【截止日期：2024-07-21-00:00:00】[智能计算成像实验室（SCILab）](https://scilaboratory.com/h-nd-655.html)
+~~【截止日期：2024-07-21-00:00:00】[智能计算成像实验室（SCILab）](https://scilaboratory.com/h-nd-655.html)~~
 
 
 ## 西南财经大学
@@ -982,14 +980,14 @@
 
 ## 上海第二工业大学
 
-【截止日期：2024-08-01-00:00:00】[计算机与信息工程学院](https://jxxy.sspu.edu.cn/2024/0628/c2084a155183/page.htm)
+~~【截止日期：2024-08-01-00:00:00】[计算机与信息工程学院](https://jxxy.sspu.edu.cn/2024/0628/c2084a155183/page.htm)~~
 
 
 ## 南京邮电大学
 
-【截止日期：2024-08-09-00:00:00】[自动化学院/人工智能学院](https://coa.njupt.edu.cn/2024/0701/c2277a267160/page.htm)
+~~【截止日期：2024-08-09-00:00:00】[自动化学院/人工智能学院](https://coa.njupt.edu.cn/2024/0701/c2277a267160/page.htm)~~
 
-【截止日期：2024-07-20-00:00:00】[物联网学院](https://ciot.njupt.edu.cn/2024/0709/c10653a267656/page.htm)
+~~【截止日期：2024-07-20-00:00:00】[物联网学院](https://ciot.njupt.edu.cn/2024/0709/c10653a267656/page.htm)~~
 
 
 ## 南京航空航天大学
@@ -1038,5 +1036,5 @@
 
 ## 中国电力科学研究院
 
-【截止日期：2024-07-29-00:00:00】[中国电力科学研究院](https://mp.weixin.qq.com/s/BodvsTQ_CRzTGmUcEFboCA)
+~~【截止日期：2024-07-29-00:00:00】[中国电力科学研究院](https://mp.weixin.qq.com/s/BodvsTQ_CRzTGmUcEFboCA)~~
 
