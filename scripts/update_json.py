@@ -17,6 +17,43 @@ new_entry = {
     "tags": json.loads(os.getenv('INPUT_TAGS', '[]'))
 }
 
+if not new_entry["tags"]:
+    csv_file_path = '../92.csv'
+    found = False
+
+    # 第一列查找
+    with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
+        reader = csv.reader(csvfile)
+        for row in reader:
+            if row[0] == name:
+                new_entry["tags"].extend(["985", "211"])
+                found = True
+                break
+
+    # 第二列查找
+    if not found:
+        with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
+            reader = csv.reader(csvfile)
+            for row in reader:
+                if row[1] == name:
+                    new_entry["tags"].append("211")
+                    found = True
+                    break
+
+    # 第三列查找
+    if not found:
+        with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
+            reader = csv.reader(csvfile)
+            for row in reader:
+                if row[2] == name:
+                    new_entry["tags"].append("双非")
+                    found = True
+                    break
+
+    # 如果没有找到
+    if not found:
+        new_entry["tags"].append("四非")
+
 # 检查是否存在完全一致的条目
 found = False
 for i, entry in enumerate(data[target]):
