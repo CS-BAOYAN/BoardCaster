@@ -70,6 +70,11 @@ jobs:
       run: |
         python scripts/generate_markdown.py
 
+    - name: Generate Markdown file
+      if: steps.check_json.outputs.is_valid_json == 'true'
+      run: |
+        python scripts/update_readme.py
+
     - name: Commit and push JSON and Markdown files
       if: steps.check_json.outputs.is_valid_json == 'true'
       env:
@@ -77,6 +82,6 @@ jobs:
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
-        git add data.json output.md
+        git add data.json output.md README.md
         git commit -m "Update data.json and output.md with new issue"
         git push
