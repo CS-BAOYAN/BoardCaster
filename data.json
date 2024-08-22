@@ -4854,6 +4854,18 @@
                 "TOP2",
                 "C9"
             ]
+        },
+        {
+            "name": "哈尔滨工业大学",
+            "institute": "空间科学与应用技术研究院（深圳）",
+            "description": "第一批8.28；第二批9.4",
+            "deadline": "2024-08-29T00:00:00+08:00",
+            "website": "http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2711",
+            "tags": [
+                "985",
+                "211",
+                "C9"
+            ]
         }
     ]
 }
