@@ -4816,6 +4816,19 @@
                 "TOP2",
                 "C9"
             ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "深圳国际研究生院博士",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
         }
     ]
 }
