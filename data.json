@@ -4705,6 +4705,16 @@
                 "华五",
                 "C9"
             ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "上海高等研究院",
+            "description": "",
+            "deadline": "2024-10-01T00:00:00+08:00",
+            "website": "http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202408/t20240814_7266181.html",
+            "tags": [
+                "研究院"
+            ]
         }
     ]
 }
