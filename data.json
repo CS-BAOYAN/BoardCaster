@@ -4803,6 +4803,19 @@
                 "TOP2",
                 "C9"
             ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "统计与数据科学系博士",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/b5486b29-e767-4b4e-acf8-1f7f44409cb0?yxsdm=088",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
         }
     ]
 }
