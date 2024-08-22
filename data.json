@@ -4938,6 +4938,16 @@
                 "TOP2",
                 "C9"
             ]
+        },
+        {
+            "name": "中国航天科工集团第三研究院",
+            "institute": "第三总体设计部",
+            "description": "",
+            "deadline": "2024-09-30T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/XYyZbbMNyiB-joHdoWyRCQ",
+            "tags": [
+                "研究院"
+            ]
         }
     ]
 }
