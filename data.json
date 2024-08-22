@@ -4829,6 +4829,18 @@
                 "TOP2",
                 "C9"
             ]
+        },
+        {
+            "name": "哈尔滨工业大学",
+            "institute": "计算机科学与技术学院（深圳）",
+            "description": "",
+            "deadline": "2024-09-10T00:00:00+08:00",
+            "website": "http://cs.hitsz.edu.cn/info/1029/7452.htm",
+            "tags": [
+                "985",
+                "211",
+                "C9"
+            ]
         }
     ]
 }
