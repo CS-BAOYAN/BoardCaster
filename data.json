@@ -4892,6 +4892,16 @@
                 "华五",
                 "C9"
             ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "计算机网络信息中心",
+            "description": "",
+            "deadline": "2024-09-11T00:00:00+08:00",
+            "website": "https://cnic.cas.cn/yjsjy/tzgg/202408/t20240819_7287051.html",
+            "tags": [
+                "研究院"
+            ]
         }
     ]
 }
