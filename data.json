@@ -4649,6 +4649,19 @@
             "tags": [
                 "四非"
             ]
+        },
+        {
+            "name": "浙江大学",
+            "institute": "数据科学研究中心",
+            "description": "",
+            "deadline": "2024-09-11T00:00:00+08:00",
+            "website": "http://cds.zju.edu.cn/a/zsxx/3498.html",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
         }
     ]
 }
