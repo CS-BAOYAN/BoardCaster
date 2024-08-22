@@ -4682,6 +4682,16 @@
             "tags": [
                 "研究院"
             ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "微小卫星创新研究院",
+            "description": "",
+            "deadline": "2024-10-01T00:00:00+08:00",
+            "website": "https://microsate.cas.cn/yajsjy/sszsxx/202408/t20240815_7273355.html",
+            "tags": [
+                "研究院"
+            ]
         }
     ]
 }
