@@ -4866,6 +4866,19 @@
                 "211",
                 "C9"
             ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "高等研究院博士",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/4f1410c8-5e05-4d93-931b-a85aca0f026d?yxsdm=048",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
         }
     ]
 }
