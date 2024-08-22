@@ -4948,6 +4948,16 @@
             "tags": [
                 "研究院"
             ]
+        },
+        {
+            "name": "北京科技大学",
+            "institute": "国家材料服役安全科学中心",
+            "description": "",
+            "deadline": "2024-09-01T00:00:00+08:00",
+            "website": "https://ncms.ustb.edu.cn/rcpy/tzgg/e479005126814dcb8ace6b822f592d79.htm",
+            "tags": [
+                "211"
+            ]
         }
     ]
 }
