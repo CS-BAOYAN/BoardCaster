@@ -4902,6 +4902,16 @@
             "tags": [
                 "研究院"
             ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "自动化研究所",
+            "description": "",
+            "deadline": "2024-08-30T00:00:00+08:00",
+            "website": "http://www.ia.cas.cn/yjsjy/zs/sszs/202408/t20240820_7301558.html",
+            "tags": [
+                "研究院"
+            ]
         }
     ]
 }
