@@ -672,7 +672,7 @@
 
 ## 香港科技大学
 
-【截止日期：2024-08-25-00:00:00】[cse early admission](https://cse.hkust.edu.hk/pg/admissions/recruiting/)
+~~【截止日期：2024-08-25-00:00:00】[cse early admission](https://cse.hkust.edu.hk/pg/admissions/recruiting/)~~
 
 【截止日期：N/A】[系统枢纽博士项目夏令营](https://mp.weixin.qq.com/s/7Pymi47l2nyR4imEA4FnZA)
 
