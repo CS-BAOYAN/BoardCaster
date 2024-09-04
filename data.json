@@ -5043,6 +5043,16 @@
                 "TOP2",
                 "C9"
             ]
+        },
+        {
+            "name": "北京科技大学",
+            "institute": "前沿交叉科学技术研究院",
+            "description": "",
+            "deadline": "2024-08-31T00:00:00+08:00",
+            "website": "https://qy.ustb.edu.cn/tzgg/cdf07f88e1864b6d95aab2babb19d573.htm",
+            "tags": [
+                "211"
+            ]
         }
     ]
 }
