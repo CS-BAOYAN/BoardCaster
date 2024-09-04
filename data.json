@@ -4994,6 +4994,16 @@
                 "TOP2",
                 "C9"
             ]
+        },
+        {
+            "name": "华东理工大学",
+            "institute": "接收外校推荐免试研究生（含直博生）预报名",
+            "description": "",
+            "deadline": "2024-09-20T09:00:00+08:00",
+            "website": "https://gschool.ecust.edu.cn/2024/0821/c12708a170153/page.htm",
+            "tags": [
+                "211"
+            ]
         }
     ]
 }
