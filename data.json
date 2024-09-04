@@ -5004,6 +5004,19 @@
             "tags": [
                 "211"
             ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "工程硕博士培养改革专项",
+            "description": "",
+            "deadline": "2024-09-02T16:00:00+08:00",
+            "website": "https://gsao.fudan.edu.cn/83/15/c15014a688917/page.htm",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
         }
     ]
 }
