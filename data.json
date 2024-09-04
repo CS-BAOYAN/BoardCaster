@@ -5101,6 +5101,19 @@
                 "211",
                 "C9"
             ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "电子工程系天基网络与通信全国重点实验室",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://www.ee.tsinghua.edu.cn/info/1078/4549.htm",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
         }
     ]
 }
