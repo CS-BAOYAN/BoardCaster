@@ -5751,6 +5751,16 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "东北财经大学",
+            "institute": "数据科学与人工智能学院",
+            "description": "",
+            "deadline": "2024-09-19T00:00:00+08:00",
+            "website": "https://dsai.dufe.edu.cn/content_85962.html",
+            "tags": [
+                "四非"
+            ]
         }
     ]
 }
