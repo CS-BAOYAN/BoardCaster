@@ -5178,6 +5178,17 @@
             "tags": [
                 "双非"
             ]
+        },
+        {
+            "name": "湖南大学",
+            "institute": "国优计划",
+            "description": "",
+            "deadline": "2024-09-16T00:00:00+08:00",
+            "website": "https://gra.hnu.edu.cn/info/1075/9696.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
