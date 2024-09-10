@@ -5531,6 +5531,17 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "山东大学",
+            "institute": "计算机科学与技术学院",
+            "description": "",
+            "deadline": "2024-09-18T17:00:00+08:00",
+            "website": "https://www.cs.sdu.edu.cn/info/1068/6336.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
