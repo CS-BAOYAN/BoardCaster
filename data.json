@@ -5415,6 +5415,16 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "计算技术研究所",
+            "description": "",
+            "deadline": "2024-09-06T12:00:00+08:00",
+            "website": "https://www.ict.ac.cn/yjsjy/zsxx/sszs/202409/t20240902_7331937.html",
+            "tags": [
+                "研究院"
+            ]
         }
     ]
 }
