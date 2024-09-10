@@ -5837,6 +5837,19 @@
             "tags": [
                 "211"
             ]
+        },
+        {
+            "name": "北京大学",
+            "institute": "软件与微电子学院(硕士)",
+            "description": "",
+            "deadline": "2024-09-14T16:00:00+08:00",
+            "website": "https://www.ss.pku.edu.cn/admission/admnotice/4603.html",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
         }
     ]
 }
