@@ -5189,6 +5189,16 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "西湖大学",
+            "institute": "博士研究生",
+            "description": "",
+            "deadline": "2024-09-10T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/BYhZU8vqKXa8ugkmBTI6rQ",
+            "tags": [
+                "四非"
+            ]
         }
     ]
 }
