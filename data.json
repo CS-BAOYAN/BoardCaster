@@ -5542,6 +5542,19 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "大数据学院",
+            "description": "",
+            "deadline": "2024-09-15T16:00:00+08:00",
+            "website": "https://sds.fudan.edu.cn/8a/d4/c17701a690900/page.htm",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
         }
     ]
 }
