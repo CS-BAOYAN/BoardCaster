@@ -5729,6 +5729,17 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "厦门大学",
+            "institute": "人工智能研究院",
+            "description": "",
+            "deadline": "2024-09-14T12:00:00+08:00",
+            "website": "https://iai.xmu.edu.cn/info/1110/4114.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
