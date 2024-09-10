@@ -5772,6 +5772,16 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "华中农业大学",
+            "institute": "信息学院",
+            "description": "",
+            "deadline": "2024-09-18T00:00:00+08:00",
+            "website": "https://coi.hzau.edu.cn/info/1015/12503.htm",
+            "tags": [
+                "211"
+            ]
         }
     ]
 }
