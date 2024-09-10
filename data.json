@@ -5520,6 +5520,17 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "中南大学",
+            "institute": "计算机学院",
+            "description": "",
+            "deadline": "2024-09-11T00:00:00+08:00",
+            "website": "https://cse.csu.edu.cn/info/1040/9738.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
