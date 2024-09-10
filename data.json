@@ -5380,6 +5380,17 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "山东大学",
+            "institute": "信息学院",
+            "description": "",
+            "deadline": "2024-09-15T00:00:00+08:00",
+            "website": "https://www.ise.sdu.edu.cn/info/1025/13923.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
