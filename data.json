@@ -5358,6 +5358,17 @@
                 "华五",
                 "C9"
             ]
+        },
+        {
+            "name": "华南理工大学",
+            "institute": "智能EDA专项班",
+            "description": "",
+            "deadline": "",
+            "website": "https://yz.scut.edu.cn/2024/0829/c30674a560558/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
