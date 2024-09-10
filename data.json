@@ -5267,6 +5267,16 @@
             "tags": [
                 "研究院"
             ]
+        },
+        {
+            "name": "南方科技大学",
+            "institute": "生物医学工程系",
+            "description": "",
+            "deadline": "2024-09-29T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/XVR-TQauRNapWFVJJYM-nw",
+            "tags": [
+                "双非"
+            ]
         }
     ]
 }
