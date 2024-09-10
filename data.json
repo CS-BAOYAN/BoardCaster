@@ -5436,6 +5436,19 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "推免生招生预选拔活动报名",
+            "description": "",
+            "deadline": "2024-09-16T00:00:00+08:00",
+            "website": "https://gsao.fudan.edu.cn/8a/a3/c15014a690851/page.htm",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
         }
     ]
 }
