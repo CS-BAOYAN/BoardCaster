@@ -5404,6 +5404,17 @@
                 "华五",
                 "C9"
             ]
+        },
+        {
+            "name": "天津大学",
+            "institute": "集成电路专项导师团",
+            "description": "",
+            "deadline": "2024-09-09T00:00:00+08:00",
+            "website": "https://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240830_323891.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
