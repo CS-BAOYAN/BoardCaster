@@ -5718,6 +5718,17 @@
                 "华五",
                 "C9"
             ]
+        },
+        {
+            "name": "南开大学",
+            "institute": "人工智能学院",
+            "description": "",
+            "deadline": "2024-09-12T00:00:00+08:00",
+            "website": "https://ai.nankai.edu.cn/info/1024/5923.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
