@@ -5199,6 +5199,17 @@
             "tags": [
                 "四非"
             ]
+        },
+        {
+            "name": "大连理工大学",
+            "institute": "信息与通信工程学院",
+            "description": "",
+            "deadline": "2024-09-12T00:00:00+08:00",
+            "website": "http://ice.dlut.edu.cn/info/1208/3886.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
