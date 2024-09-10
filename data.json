@@ -5300,6 +5300,17 @@
             "tags": [
                 "研究院"
             ]
+        },
+        {
+            "name": "湖南大学",
+            "institute": "卓越工程师学院工程硕博",
+            "description": "",
+            "deadline": "2024-09-20T00:00:00+08:00",
+            "website": "https://gra.hnu.edu.cn/info/1075/9699.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
