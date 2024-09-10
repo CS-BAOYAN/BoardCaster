@@ -5624,6 +5624,19 @@
                 "华五",
                 "C9"
             ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "类脑智能科学与技术研究院",
+            "description": "",
+            "deadline": "2024-09-15T16:00:00+08:00",
+            "website": "https://istbi.fudan.edu.cn/info/1167/6400.htm",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
         }
     ]
 }
