@@ -5290,6 +5290,16 @@
                 "华五",
                 "C9"
             ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "深圳先进技术研究院",
+            "description": "",
+            "deadline": "2024-09-17T00:00:00+08:00",
+            "website": "https://www.siat.ac.cn/yjsjy2016/zsjs2016/202408/t20240829_7327021.html",
+            "tags": [
+                "研究院"
+            ]
         }
     ]
 }
