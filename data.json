@@ -5472,6 +5472,19 @@
                 "华五",
                 "C9"
             ]
+        },
+        {
+            "name": "中国科学技术大学",
+            "institute": "工程硕博士培养改革专项",
+            "description": "",
+            "deadline": "2024-09-13T00:00:00+08:00",
+            "website": "https://yz.ustc.edu.cn/article/2734/182?num=-1",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
         }
     ]
 }
