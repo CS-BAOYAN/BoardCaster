@@ -5672,6 +5672,17 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "湖南大学",
+            "institute": "信息学院",
+            "description": "",
+            "deadline": "2024-09-15T00:00:00+08:00",
+            "website": "https://informatics.xmu.edu.cn/info/1050/40529.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
