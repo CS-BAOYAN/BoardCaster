@@ -5231,6 +5231,19 @@
             "tags": [
                 "四非"
             ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "电子全球创新学院GIX",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://gix.tsinghua.edu.cn/zs1.htm",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
         }
     ]
 }
