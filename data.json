@@ -5369,6 +5369,17 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "山东大学",
+            "institute": "国优计划",
+            "description": "",
+            "deadline": "2024-09-05T00:00:00+08:00",
+            "website": "https://www.cie.sdu.edu.cn/info/1033/4876.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
