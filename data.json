@@ -5661,6 +5661,17 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "湖南大学",
+            "institute": "电子科学与技术学院",
+            "description": "",
+            "deadline": "2024-09-12T00:00:00+08:00",
+            "website": "https://ese.xmu.edu.cn/info/1018/23289.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
