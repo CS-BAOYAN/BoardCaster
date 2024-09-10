@@ -5803,6 +5803,17 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "同济大学",
+            "institute": "工程硕博士专项",
+            "description": "",
+            "deadline": "2024-09-27T00:00:00+08:00",
+            "website": "https://yz.tongji.edu.cn/info/1010/3653.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
