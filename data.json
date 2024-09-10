@@ -5827,6 +5827,16 @@
                 "华五",
                 "C9"
             ]
+        },
+        {
+            "name": "郑州大学",
+            "institute": "网络空间安全学院",
+            "description": "",
+            "deadline": "2024-09-23T00:00:00+08:00",
+            "website": "http://softschool.zzu.edu.cn/front/singleArticleDetail?id=4a453ec89077fd760191cf896c0202bc",
+            "tags": [
+                "211"
+            ]
         }
     ]
 }
