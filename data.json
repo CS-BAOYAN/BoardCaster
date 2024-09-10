@@ -5555,6 +5555,17 @@
                 "华五",
                 "C9"
             ]
+        },
+        {
+            "name": "同济大学",
+            "institute": "国优计划",
+            "description": "",
+            "deadline": "2024-10-08T00:00:00+08:00",
+            "website": "https://yz.tongji.edu.cn/info/1010/3640.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
