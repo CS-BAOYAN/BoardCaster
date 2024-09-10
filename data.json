@@ -5425,6 +5425,17 @@
             "tags": [
                 "研究院"
             ]
+        },
+        {
+            "name": "同济大学",
+            "institute": "推荐免试研究生（含直接攻博）",
+            "description": "",
+            "deadline": "2024-09-27T00:00:00+08:00",
+            "website": "https://yz.tongji.edu.cn/info/1010/3638.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
