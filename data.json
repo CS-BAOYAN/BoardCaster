@@ -5459,6 +5459,19 @@
             "tags": [
                 "双非"
             ]
+        },
+        {
+            "name": "中国科学技术大学",
+            "institute": "网络空间安全学院",
+            "description": "",
+            "deadline": "2024-09-16T00:00:00+08:00",
+            "website": "https://xly.ustc.edu.cn/news.php?newsid=1039",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
         }
     ]
 }
