@@ -5761,6 +5761,17 @@
             "tags": [
                 "四非"
             ]
+        },
+        {
+            "name": "中山大学",
+            "institute": "计算机学院",
+            "description": "",
+            "deadline": "2024-09-12T00:00:00+08:00",
+            "website": "https://cse.sysu.edu.cn/content/7164",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
