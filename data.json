@@ -5650,6 +5650,17 @@
                 "华五",
                 "C9"
             ]
+        },
+        {
+            "name": "中南大学",
+            "institute": "电子信息学院",
+            "description": "",
+            "deadline": "2024-09-19T00:00:00+08:00",
+            "website": "https://ei.csu.edu.cn/info/1085/1633.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
