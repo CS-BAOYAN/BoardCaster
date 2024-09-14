@@ -5939,6 +5939,18 @@
                 "华五",
                 "C9"
             ]
+        },
+        {
+            "name": "西安交通大学",
+            "institute": "软件学院",
+            "description": "",
+            "deadline": "2024-09-22T00:00:00+08:00",
+            "website": "https://se.xjtu.edu.cn/info/1043/2631.htm",
+            "tags": [
+                "985",
+                "211",
+                "C9"
+            ]
         }
     ]
 }
