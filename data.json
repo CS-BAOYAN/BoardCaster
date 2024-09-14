@@ -5963,6 +5963,18 @@
                 "211",
                 "C9"
             ]
+        },
+        {
+            "name": "西安交通大学",
+            "institute": "计算机科学与技术学院",
+            "description": "",
+            "deadline": "2024-09-24T20:00:00+08:00",
+            "website": "http://www.cs.xjtu.edu.cn/info/1233/3489.htm",
+            "tags": [
+                "985",
+                "211",
+                "C9"
+            ]
         }
     ]
 }
