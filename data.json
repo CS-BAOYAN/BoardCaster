@@ -5915,6 +5915,17 @@
                 "华五",
                 "C9"
             ]
+        },
+        {
+            "name": "西北工业大学",
+            "institute": "接收推荐免试研究生",
+            "description": "",
+            "deadline": "2024-09-27T00:00:00+08:00",
+            "website": "https://jsj.nwpu.edu.cn/info/1599/20385.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
