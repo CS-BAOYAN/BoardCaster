@@ -5951,6 +5951,18 @@
                 "211",
                 "C9"
             ]
+        },
+        {
+            "name": "西安交通大学",
+            "institute": "网络空间安全学院",
+            "description": "",
+            "deadline": "2024-09-22T20:00:00+08:00",
+            "website": "http://cybersec.xjtu.edu.cn/info/1017/1961.htm",
+            "tags": [
+                "985",
+                "211",
+                "C9"
+            ]
         }
     ]
 }
