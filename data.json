@@ -5926,6 +5926,19 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "中国科学技术大学",
+            "institute": "研究生院科学岛分院",
+            "description": "",
+            "deadline": "2024-09-26T00:00:00+08:00",
+            "website": "https://www.hf.cas.cn/sbpy/yjsc/zs/sszs/202409/t20240910_7342840.html",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
         }
     ]
 }
