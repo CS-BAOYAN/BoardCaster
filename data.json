@@ -5996,6 +5996,16 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "哈尔滨工程大学",
+            "institute": "计算机科学与技术学院",
+            "description": "",
+            "deadline": "2024-09-27T00:00:00+08:00",
+            "website": "https://cstc.hrbeu.edu.cn/2024/0913/c3688a328871/page.htm",
+            "tags": [
+                "211"
+            ]
         }
     ]
 }
