@@ -6187,6 +6187,17 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "中山大学",
+            "institute": "软件工程学院",
+            "description": "",
+            "deadline": "2024-09-19T09:00:00+08:00",
+            "website": "https://sse.sysu.edu.cn/article/771",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
