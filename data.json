@@ -6131,6 +6131,18 @@
             "tags": [
                 "211"
             ]
+        },
+        {
+            "name": "西安交通大学",
+            "institute": "前沿科学技术研究院",
+            "description": "",
+            "deadline": "2024-09-25T00:00:00+08:00",
+            "website": "https://fist.xjtu.edu.cn/info/1013/4128.htm",
+            "tags": [
+                "985",
+                "211",
+                "C9"
+            ]
         }
     ]
 }
