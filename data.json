@@ -6644,6 +6644,17 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "武汉大学",
+            "institute": "遥感信息工程学院",
+            "description": "",
+            "deadline": "2024-09-27T14:00:00+08:00",
+            "website": "https://rsgis.whu.edu.cn/info/1083/98610.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
