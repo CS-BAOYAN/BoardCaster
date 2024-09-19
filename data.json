@@ -6589,6 +6589,17 @@
                 "211",
                 "C9"
             ]
+        },
+        {
+            "name": "西北工业大学",
+            "institute": "电子信息学院",
+            "description": "",
+            "deadline": "2024-09-25T00:00:00+08:00",
+            "website": "https://dianzi.nwpu.edu.cn/info/1507/30571.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
