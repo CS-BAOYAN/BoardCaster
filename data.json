@@ -6577,6 +6577,18 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "西安交通大学",
+            "institute": "电子与信息学部“国优计划”",
+            "description": "",
+            "deadline": "2024-09-25T00:00:00+08:00",
+            "website": "https://eiegrad.xjtu.edu.cn/info/1013/3487.htm",
+            "tags": [
+                "985",
+                "211",
+                "C9"
+            ]
         }
     ]
 }
