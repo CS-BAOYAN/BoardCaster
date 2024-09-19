@@ -6480,6 +6480,16 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "中国科学院大学",
+            "institute": "集成电路学院",
+            "description": "",
+            "deadline": "2024-09-25T00:00:00+08:00",
+            "website": "https://sme.ucas.ac.cn/index.php/zh-cn/zsjy/sszs/518-2025",
+            "tags": [
+                "双非"
+            ]
         }
     ]
 }
