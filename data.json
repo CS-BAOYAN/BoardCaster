@@ -6270,6 +6270,16 @@
             "tags": [
                 "211"
             ]
+        },
+        {
+            "name": "北京交通大学",
+            "institute": "自动化与智能学院",
+            "description": "",
+            "deadline": "2024-09-26T00:00:00+08:00",
+            "website": "https://ai.bjtu.edu.cn/rcpy/yjspy/zsxx/202313911.htm",
+            "tags": [
+                "211"
+            ]
         }
     ]
 }
