@@ -6655,6 +6655,17 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "电子科技大学",
+            "institute": "智能计算研究院",
+            "description": "",
+            "deadline": "2024-09-23T12:00:00+08:00",
+            "website": "https://icct.uestc.edu.cn/info/1029/1720.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
