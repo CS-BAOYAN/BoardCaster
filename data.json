@@ -6533,6 +6533,17 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "武汉大学",
+            "institute": "计算机学院",
+            "description": "",
+            "deadline": "2024-09-21T12:00:00+08:00",
+            "website": "https://cs.whu.edu.cn/info/1071/46641.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
