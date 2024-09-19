@@ -6101,6 +6101,16 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "西南交通大学",
+            "institute": "计算机与人工智能学院",
+            "description": "",
+            "deadline": "2024-09-18T00:00:00+08:00",
+            "website": "https://bm.cugb.edu.cn/yjsyzsb/c/2024-09-13/809023.shtml",
+            "tags": [
+                "211"
+            ]
         }
     ]
 }
