@@ -6611,6 +6611,17 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "北京航空航天大学",
+            "institute": "可靠性与系统工程学院",
+            "description": "",
+            "deadline": "2024-09-23T12:00:00+08:00",
+            "website": "https://rse.buaa.edu.cn/info/1307/4146.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
