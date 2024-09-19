@@ -6426,6 +6426,17 @@
             "tags": [
                 "211"
             ]
+        },
+        {
+            "name": "国防科技大学",
+            "institute": "计算机学院",
+            "description": "材料提交时间为9月19日24:00 前",
+            "deadline": "2024-09-23T00:00:00+08:00",
+            "website": "http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13905",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
