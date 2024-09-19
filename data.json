@@ -6447,6 +6447,17 @@
             "tags": [
                 "双非"
             ]
+        },
+        {
+            "name": "北京航空航天大学",
+            "institute": "装置院",
+            "description": "",
+            "deadline": "2024-09-20T19:00:00+08:00",
+            "website": "https://piqs.buaa.edu.cn/info/1038/2327.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
