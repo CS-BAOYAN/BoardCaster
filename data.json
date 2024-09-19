@@ -6330,6 +6330,16 @@
             "tags": [
                 "211"
             ]
+        },
+        {
+            "name": "华中师范大学",
+            "institute": "计算机学院（含“国优计划”）",
+            "description": "",
+            "deadline": "2024-09-19T00:00:00+08:00",
+            "website": "https://cs.ccnu.edu.cn/info/1056/4480.htm",
+            "tags": [
+                "211"
+            ]
         }
     ]
 }
