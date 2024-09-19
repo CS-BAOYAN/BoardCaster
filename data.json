@@ -6090,6 +6090,17 @@
             "tags": [
                 "四非"
             ]
+        },
+        {
+            "name": "山东大学",
+            "institute": "未来技术学院",
+            "description": "",
+            "deadline": "2024-09-20T17:00:00+08:00",
+            "website": "https://sft.sdu.edu.cn/info/1010/1277.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
