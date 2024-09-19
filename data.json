@@ -6176,6 +6176,17 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "中山大学",
+            "institute": "人工智能学院",
+            "description": "",
+            "deadline": "2024-09-19T17:00:00+08:00",
+            "website": "https://sai.sysu.edu.cn/notice/1416784.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
