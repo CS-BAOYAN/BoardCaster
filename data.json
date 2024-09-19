@@ -6372,6 +6372,17 @@
                 "211",
                 "C9"
             ]
+        },
+        {
+            "name": "北京师范大学",
+            "institute": "接收校内外推荐免试硕士博士",
+            "description": "",
+            "deadline": "2024-09-24T00:00:00+08:00",
+            "website": "https://yz.bnu.edu.cn/detail/d2f541dd-127b-4b40-a9b5-d6ec401812bd",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
