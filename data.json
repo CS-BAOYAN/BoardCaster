@@ -6600,6 +6600,17 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "北京航空航天大学",
+            "institute": "人工智能学院",
+            "description": "",
+            "deadline": "2024-09-20T17:00:00+08:00",
+            "website": "https://iai.buaa.edu.cn/info/1024/3706.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
