@@ -6050,6 +6050,16 @@
                 "华五",
                 "C9"
             ]
+        },
+        {
+            "name": "北京交通大学",
+            "institute": "计算机科学与技术学院",
+            "description": "",
+            "deadline": "2024-09-23T12:00:00+08:00",
+            "website": "https://cs.bjtu.edu.cn/zsjy/yjszs3/yjszs_sszs/202313885.htm",
+            "tags": [
+                "211"
+            ]
         }
     ]
 }
