@@ -6490,6 +6490,17 @@
             "tags": [
                 "双非"
             ]
+        },
+        {
+            "name": "中国海洋大学",
+            "institute": "三亚海洋研究院",
+            "description": "",
+            "deadline": "2024-09-24T00:00:00+08:00",
+            "website": "http://soi.ouc.edu.cn/archive/info/1086",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
