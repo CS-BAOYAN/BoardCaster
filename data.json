@@ -6437,6 +6437,16 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "南方科技大学",
+            "institute": "计算机科学与工程系",
+            "description": "",
+            "deadline": "2024-09-20T00:00:00+08:00",
+            "website": "https://cse.sustech.edu.cn/cn/news/view/id/1082",
+            "tags": [
+                "双非"
+            ]
         }
     ]
 }
