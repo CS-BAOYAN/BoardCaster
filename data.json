@@ -6220,6 +6220,16 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "北京外国语大学",
+            "institute": "人工智能与人类语言重点实验室",
+            "description": "",
+            "deadline": "2024-09-18T12:00:00+08:00",
+            "website": "https://ai.bfsu.edu.cn/info/1072/1589.htm",
+            "tags": [
+                "211"
+            ]
         }
     ]
 }
