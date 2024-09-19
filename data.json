@@ -6633,6 +6633,17 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "电子科技大学",
+            "institute": "通信抗干扰全国重点实验室",
+            "description": "",
+            "deadline": "2024-09-22T18:00:00+08:00",
+            "website": "https://www.ncl.uestc.edu.cn/info/1083/3147.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
