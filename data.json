@@ -6666,6 +6666,17 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "重庆大学",
+            "institute": "重庆卓越工程师学院",
+            "description": "",
+            "deadline": "2024-09-21T00:00:00+08:00",
+            "website": "https://eie.cqu.edu.cn/info/1483/2655.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
