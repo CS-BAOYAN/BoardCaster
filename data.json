@@ -6165,6 +6165,17 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "北京航空航天大学",
+            "institute": "计算机学院",
+            "description": "",
+            "deadline": "2024-09-22T00:00:00+08:00",
+            "website": "https://scse.buaa.edu.cn/info/1099/11381.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
