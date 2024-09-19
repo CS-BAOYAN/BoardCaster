@@ -6143,6 +6143,17 @@
                 "211",
                 "C9"
             ]
+        },
+        {
+            "name": "西北工业大学",
+            "institute": "无人系统技术研究院",
+            "description": "",
+            "deadline": "2024-09-23T00:00:00+08:00",
+            "website": "https://wurenxitong.nwpu.edu.cn/info/1108/7768.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
