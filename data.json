@@ -6360,6 +6360,18 @@
             "tags": [
                 "211"
             ]
+        },
+        {
+            "name": "西安交通大学",
+            "institute": "人工智能学院",
+            "description": "",
+            "deadline": "2024-09-19T00:00:00+08:00",
+            "website": "http://www.aiar.xjtu.edu.cn/info/1028/3386.htm",
+            "tags": [
+                "985",
+                "211",
+                "C9"
+            ]
         }
     ]
 }
