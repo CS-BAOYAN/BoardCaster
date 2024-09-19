@@ -11,7 +11,7 @@ assignees: ''
 "name": "",
 "institute": "",
 "description": "",
-"deadline": "2024-08-26T00:00:00+08:00",
+"deadline": "2024-09-2T00:00:00+08:00",
 "website": "",
 "tags": [],
 "target": "yutuimian2024"
