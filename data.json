@@ -6458,6 +6458,17 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "北京航空航天大学",
+            "institute": "网络空间学院",
+            "description": "",
+            "deadline": "2024-09-19T22:00:00+08:00",
+            "website": "https://cst.buaa.edu.cn/info/1062/3749.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
