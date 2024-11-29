@@ -1,5 +1,19 @@
 {
-    "camp2025":[],
+    "camp2025": [
+        {
+            "name": "清华大学",
+            "institute": "智能产业研究院",
+            "description": "冬令营（寒假期间进行的科研实习）",
+            "deadline": "2025-01-10T00:00:00+08:00",
+            "website": "https://air.tsinghua.edu.cn/info/1007/2129.htm",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
+        }
+    ],
     "camp2024": [
         {
             "name": "清华大学",
