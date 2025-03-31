@@ -1,0 +1,71 @@
+name: 夏令营信息收集（2025）
+description: 用于提交夏令营项目信息（自动更新 JSON & Markdown）
+title: "[夏令营] 请填写学校名称"
+labels: ["camp2025"]
+assignees: []
+
+body:
+  - type: input
+    id: name
+    attributes:
+      label: 学校名称
+      description: 学校的全称，如“绿裙大学”
+      placeholder: 请输入学校名称
+    validations:
+      required: true
+
+  - type: input
+    id: institute
+    attributes:
+      label: 举办单位或学院
+      description: 举办该夏令营的学院/研究院等
+      placeholder: GitHub学院
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 简要描述（可选）
+      description: 可以填写夏令营介绍或亮点（如不需要可留空）
+
+  - type: input
+    id: deadline
+    attributes:
+      label: 报名截止日期
+      description: 使用格式 YYYY-MM-DDTHH:MM:SS+08:00（ISO8601）
+      placeholder: 2025-11-27T00:00:00+08:00
+    validations:
+      required: true
+
+  - type: input
+    id: website
+    attributes:
+      label: 官网链接
+      placeholder: http://github.com/
+    validations:
+      required: true
+
+  - type: dropdown
+    id: tags
+    attributes:
+      label: 标签（可多选）
+      description: 学校类型标签
+      multiple: true
+      options:
+        - TOP2
+        - C9
+        - 985
+        - 211
+
+  - type: dropdown
+    id: target
+    attributes:
+      label: 面向年级
+      description: 此夏令营面向的学生年级
+      options:
+        - camp2025
+        - camp2026
+        - camp2027
+    validations:
+      required: true
