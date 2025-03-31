@@ -8,32 +8,27 @@ def extract_field(text, header):
     match = re.search(pattern, text, re.DOTALL)
     return match.group(1).strip() if match else ""
 
-# 优先读取环境变量
-name = os.getenv('INPUT_NAME')
-institute = os.getenv('INPUT_INSTITUTE')
-description = os.getenv('INPUT_DESCRIPTION')
-deadline = os.getenv('INPUT_DEADLINE')
-website = os.getenv('INPUT_WEBSITE')
-tags = os.getenv('INPUT_TAGS')
-target = os.getenv('INPUT_TARGET')
 
-# 如果环境变量为空，从 event.json 里提取 raw markdown
-if not name:
-    with open(os.environ['GITHUB_EVENT_PATH'], 'r', encoding='utf-8') as f:
-        event = json.load(f)
-        body = event["issue"]["body"]
+with open(os.environ['GITHUB_EVENT_PATH'], 'r', encoding='utf-8') as f:
+    event = json.load(f)
+    body = event["issue"]["body"]
 
-    name = extract_field(body, "学校名称")
-    institute = extract_field(body, "举办单位或学院")
-    description = extract_field(body, "简要描述（可选）")
-    deadline = extract_field(body, "报名截止日期")
-    website = extract_field(body, "官网链接")
-    tags = [tag.strip() for tag in extract_field(body, "标签（可多选）").replace("，", ",").split(",") if tag.strip()]
-    target = extract_field(body, "面向年级")
-else:
-    # 如果是环境变量传入的 tags 是 JSON 格式的字符串
-    tags = json.loads(tags or "[]")
-
+name = extract_field(body, "学校名称")
+institute = extract_field(body, "举办单位或学院")
+description = extract_field(body, "简要描述（可选）")
+deadline = extract_field(body, "报名截止日期")
+website = extract_field(body, "官网链接")
+tags = [tag.strip() for tag in extract_field(body, "标签（可多选）").replace("，", ",").split(",") if tag.strip()]
+target = extract_field(body, "面向年级")
+print(target)
+print(target)
+print(target)
+print(target)
+print(target)
+print(website)
+print(website)
+print(website)
+print(website)
 # 新条目拼接
 new_entry = {
     "name": name,
