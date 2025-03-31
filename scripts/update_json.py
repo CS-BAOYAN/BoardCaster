@@ -20,15 +20,8 @@ deadline = extract_field(body, "报名截止日期")
 website = extract_field(body, "官网链接")
 tags = [tag.strip() for tag in extract_field(body, "标签（可多选）").replace("，", ",").split(",") if tag.strip()]
 target = extract_field(body, "面向年级")
-print(target)
-print(target)
-print(target)
-print(target)
-print(target)
-print(website)
-print(website)
-print(website)
-print(website)
+
+
 # 新条目拼接
 new_entry = {
     "name": name,
