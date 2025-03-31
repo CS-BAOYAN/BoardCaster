@@ -1,4 +1,4 @@
-name: Update JSON and Generate Markdown on Issue Creation
+name: Update JSON and Generate Markdown on Issue Closed
 
 on:
   issues:
@@ -21,12 +21,14 @@ jobs:
     - name: Check if issue body is valid JSON
       id: check_json
       run: |
-        ISSUE_BODY='${{ github.event.issue.body }}'
-        if [[ $ISSUE_BODY =~ ^\{ ]]; then
-          echo "::set-output name=is_valid_json::true"
+        ISSUE_BODY="${{ github.event.issue.body }}"
+        echo "$ISSUE_BODY" | jq . > /dev/null 2>&1
+        if [ $? -eq 0 ]; then
+          echo "Valid JSON"
+          echo "is_valid_json=true" >> "$GITHUB_OUTPUT"
         else
-          echo "Issue body is not valid JSON. Skipping further steps."
-          echo "::set-output name=is_valid_json::false"
+          echo "Invalid JSON, skipping..."
+          echo "is_valid_json=false" >> "$GITHUB_OUTPUT"
         fi
 
     - name: Set up Python
@@ -39,18 +41,20 @@ jobs:
       if: steps.check_json.outputs.is_valid_json == 'true'
       run: |
         python -m pip install --upgrade pip
+        pip install jq  # 如果 Python 脚本里用到 jq
 
     - name: Extract issue content
       if: steps.check_json.outputs.is_valid_json == 'true'
       id: extract_content
       run: |
-        echo "::set-output name=name::$(echo '${{ github.event.issue.body }}' | jq -r '.name')"
-        echo "::set-output name=institute::$(echo '${{ github.event.issue.body }}' | jq -r '.institute')"
-        echo "::set-output name=description::$(echo '${{ github.event.issue.body }}' | jq -r '.description')"
-        echo "::set-output name=deadline::$(echo '${{ github.event.issue.body }}' | jq -r '.deadline')"
-        echo "::set-output name=website::$(echo '${{ github.event.issue.body }}' | jq -r '.website')"
-        echo "::set-output name=tags::$(echo '${{ github.event.issue.body }}' | jq -r '.tags | tojson')"
-        echo "::set-output name=target::$(echo '${{ github.event.issue.body }}' | jq -r '.target')"
+        BODY='${{ github.event.issue.body }}'
+        echo "name=$(echo "$BODY" | jq -r '.name')" >> "$GITHUB_OUTPUT"
+        echo "institute=$(echo "$BODY" | jq -r '.institute')" >> "$GITHUB_OUTPUT"
+        echo "description=$(echo "$BODY" | jq -r '.description')" >> "$GITHUB_OUTPUT"
+        echo "deadline=$(echo "$BODY" | jq -r '.deadline')" >> "$GITHUB_OUTPUT"
+        echo "website=$(echo "$BODY" | jq -r '.website')" >> "$GITHUB_OUTPUT"
+        echo "tags=$(echo "$BODY" | jq -c '.tags')" >> "$GITHUB_OUTPUT"
+        echo "target=$(echo "$BODY" | jq -r '.target')" >> "$GITHUB_OUTPUT"
 
     - name: Update JSON file
       if: steps.check_json.outputs.is_valid_json == 'true'
@@ -70,7 +74,7 @@ jobs:
       run: |
         python scripts/generate_markdown.py
 
-    - name: Generate Markdown file
+    - name: Update README (optional)
       if: steps.check_json.outputs.is_valid_json == 'true'
       run: |
         python scripts/update_readme.py
