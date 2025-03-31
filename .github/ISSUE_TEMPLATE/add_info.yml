@@ -33,7 +33,7 @@ body:
     id: deadline
     attributes:
       label: 报名截止日期
-      description: 使用格式 YYYY-MM-DDTHH:MM:SS+08:00（ISO8601）
+      description: 请使用格式 `YYYY-MM-DDTHH:MM:SS+08:00`，例如：2025-11-27T00:00:00+08:00
       placeholder: 2025-11-27T00:00:00+08:00
     validations:
       required: true
