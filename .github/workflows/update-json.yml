@@ -25,13 +25,6 @@ jobs:
       run: |
         python scripts/update_json.py
       env:
-        INPUT_NAME: ${{ github.event.issue.body }}
-        INPUT_INSTITUTE: ${{ github.event.issue.body }}
-        INPUT_DESCRIPTION: ${{ github.event.issue.body }}
-        INPUT_DEADLINE: ${{ github.event.issue.body }}
-        INPUT_WEBSITE: ${{ github.event.issue.body }}
-        INPUT_TAGS: ${{ github.event.issue.body }}
-        INPUT_TARGET: ${{ github.event.issue.body }}
         GITHUB_EVENT_PATH: ${{ github.event_path }}
 
     - name: Commit and push changes
