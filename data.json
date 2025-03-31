@@ -6713,5 +6713,20 @@
                 "211"
             ]
         }
+    ],
+    "": [
+        {
+            "name": "123",
+            "institute": "456",
+            "description": "234",
+            "deadline": "2025-11-27T00:00:00+08:00",
+            "website": "https://github.com",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        }
     ]
 }
