@@ -32,19 +32,6 @@
             "tags": [
                 "研究院"
             ]
-        },
-        {
-            "name": "123",
-            "institute": "456",
-            "description": "234",
-            "deadline": "2025-11-27T00:00:00+08:00",
-            "website": "https://github.com",
-            "tags": [
-                "TOP2",
-                "C9",
-                "985",
-                "211"
-            ]
         }
     ],
     "camp2024": [
@@ -6722,21 +6709,6 @@
             "deadline": "2024-09-21T00:00:00+08:00",
             "website": "https://eie.cqu.edu.cn/info/1483/2655.htm",
             "tags": [
-                "985",
-                "211"
-            ]
-        }
-    ],
-    "": [
-        {
-            "name": "123",
-            "institute": "456",
-            "description": "234",
-            "deadline": "2025-11-27T00:00:00+08:00",
-            "website": "https://github.com",
-            "tags": [
-                "TOP2",
-                "C9",
                 "985",
                 "211"
             ]
