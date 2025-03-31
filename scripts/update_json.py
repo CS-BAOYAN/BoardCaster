@@ -4,7 +4,7 @@ import csv
 import re
 
 def extract_field(text, header):
-    pattern = rf"### {header}\s+(.*?)\s+(?=###|$)"
+    pattern = rf"### {header}\s+(.*?)(?:\n###|\Z)"
     match = re.search(pattern, text, re.DOTALL)
     return match.group(1).strip() if match else ""
 
