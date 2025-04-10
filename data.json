@@ -32,6 +32,16 @@
             "tags": [
                 "研究院"
             ]
+        },
+        {
+            "name": "北京大学",
+            "institute": "前沿交叉学科研究院",
+            "description": "_No response_",
+            "deadline": "2025-6-12T16:00:00+08:00",
+            "website": "http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1860",
+            "tags": [
+                "TOP2"
+            ]
         }
     ],
     "camp2024": [
