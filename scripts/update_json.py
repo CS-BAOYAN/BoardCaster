@@ -19,6 +19,8 @@ description = extract_field(body, "简要描述（可选）")
 deadline = extract_field(body, "报名截止日期")
 website = extract_field(body, "官网链接")
 tags = [tag.strip() for tag in extract_field(body, "标签（可多选）").replace("，", ",").split(",") if tag.strip()]
+if tags[0] == "_No response_":
+    tags = []
 target = extract_field(body, "面向年级")
 
 
