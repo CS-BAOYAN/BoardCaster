@@ -50,13 +50,19 @@ body:
     id: tags
     attributes:
       label: 标签（可多选）
-      description: 学校类型标签
+      description: 学校类型标签，若为常规中国大陆大学正常项目，标签可留空，程序会自动解析
       multiple: true
       options:
         - TOP2
+        - 华五
         - C9
         - 985
         - 211
+        - 双非
+        - 四非
+        - 研究院
+        - 联培
+        - 港三
 
   - type: dropdown
     id: target
