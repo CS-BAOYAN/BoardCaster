@@ -81,6 +81,16 @@
             "tags": [
                 "TOP2"
             ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "智能与网络化系统研究中心",
+            "description": "_No response_",
+            "deadline": "2025-4-26T00:00:00+08:00",
+            "website": "https://cfins.au.tsinghua.edu.cn/",
+            "tags": [
+                "TOP2"
+            ]
         }
     ],
     "camp2024": [
