@@ -111,6 +111,16 @@
             "tags": [
                 "港三"
             ]
+        },
+        {
+            "name": "香港中文大学",
+            "institute": "计算机科学与工程系",
+            "description": "第一轮2025年4月1日-2025年5月22日，第二轮2025年5月23日-2025年6月24日",
+            "deadline": "2025-06-25T00:00:00+08:00",
+            "website": "https://www.cse.cuhk.edu.hk/admission/mphil-phd/early-admission/",
+            "tags": [
+                "港三"
+            ]
         }
     ],
     "camp2024": [
