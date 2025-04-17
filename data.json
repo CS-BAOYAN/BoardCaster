@@ -91,6 +91,16 @@
             "tags": [
                 "TOP2"
             ]
+        },
+        {
+            "name": "香港科技大学",
+            "institute": "计算机科学与工程系",
+            "description": "优秀者夏天就可以发offer，按照往年最早六月初就可以拿到，只要联系老师即可",
+            "deadline": "2025-08-15T00:00:00+08:00",
+            "website": "https://cse.hkust.edu.hk/pg/admissions/recruiting/",
+            "tags": [
+                "港三"
+            ]
         }
     ],
     "camp2024": [
