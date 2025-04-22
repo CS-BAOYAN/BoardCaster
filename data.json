@@ -121,6 +121,16 @@
             "tags": [
                 "港三"
             ]
+        },
+        {
+            "name": "北京大学",
+            "institute": "信息工程学院",
+            "description": "深圳研究生院",
+            "deadline": "2025-06-20T23:59:00+08:00",
+            "website": "https://www.ece.pku.edu.cn/info/1027/2923.htm",
+            "tags": [
+                "TOP2"
+            ]
         }
     ],
     "camp2024": [
