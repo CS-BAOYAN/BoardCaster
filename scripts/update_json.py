@@ -39,14 +39,40 @@ if not new_entry["tags"]:
     csv_file_path = '92.csv'
     found = False
 
+
+    # 附加类标签查找
+    if not found:
+        with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
+            reader = csv.reader(csvfile)
+            for row in reader:
+                if row[3] == name:
+                    new_entry["tags"].append("TOP2")
+                    found = True
+                    break
+        with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
+            reader = csv.reader(csvfile)
+            for row in reader:
+                if row[4] == name:
+                    new_entry["tags"].append("华五")
+                    found = True
+                    break
+        with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
+            reader = csv.reader(csvfile)
+            for row in reader:
+                if row[5] == name:
+                    new_entry["tags"].append("C9")
+                    found = True
+                    break
+
     # 第一列查找
-    with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
-        reader = csv.reader(csvfile)
-        for row in reader:
-            if row[0] == name:
-                new_entry["tags"].extend(["985", "211"])
-                found = True
-                break
+    if not found:
+        with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
+            reader = csv.reader(csvfile)
+            for row in reader:
+                if row[0] == name:
+                    new_entry["tags"].extend(["985"])
+                    found = True
+                    break
 
     # 第二列查找
     if not found:
@@ -71,28 +97,6 @@ if not new_entry["tags"]:
     # 如果还没找到
     if not found:
         new_entry["tags"].append("四非")
-
-    # 附加类标签查找
-    with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
-        reader = csv.reader(csvfile)
-        for row in reader:
-            if row[3] == name:
-                new_entry["tags"].append("TOP2")
-                break
-
-    with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
-        reader = csv.reader(csvfile)
-        for row in reader:
-            if row[4] == name:
-                new_entry["tags"].append("华五")
-                break
-
-    with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
-        reader = csv.reader(csvfile)
-        for row in reader:
-            if row[5] == name:
-                new_entry["tags"].append("C9")
-                break
 
 # 读取已有 JSON 数据
 with open('data.json', 'r', encoding='utf-8') as file:
