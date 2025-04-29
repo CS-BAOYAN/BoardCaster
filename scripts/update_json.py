@@ -67,9 +67,6 @@ if not new_entry["tags"]:
                     new_entry["tags"].append("C9")
                     found = True
                     break
-
-    # 第一列查找
-    if not found:
         with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
             reader = csv.reader(csvfile)
             for row in reader:
