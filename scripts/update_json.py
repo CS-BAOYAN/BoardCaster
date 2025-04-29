@@ -49,6 +49,8 @@ if not new_entry["tags"]:
                     new_entry["tags"].append("TOP2")
                     found = True
                     break
+
+    if not found:
         with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
             reader = csv.reader(csvfile)
             for row in reader:
@@ -56,6 +58,8 @@ if not new_entry["tags"]:
                     new_entry["tags"].append("华五")
                     found = True
                     break
+
+    if not found:
         with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
             reader = csv.reader(csvfile)
             for row in reader:
