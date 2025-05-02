@@ -149,6 +149,16 @@
             "tags": [
                 "双非"
             ]
+        },
+        {
+            "name": "西湖大学",
+            "institute": "工学院",
+            "description": "https://engineering.westlake.edu.cn/NewsEvents/LatestNews/202504/t20250430_55211.shtml",
+            "deadline": "2025-06-26T10:00:00+08:00",
+            "website": "https://engineering.westlake.edu.cn/NewsEvents/LatestNews/202504/t20250430_55211.shtml",
+            "tags": [
+                "四非"
+            ]
         }
     ],
     "camp2024": [
