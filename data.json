@@ -220,6 +220,16 @@
             "tags": [
                 "华五"
             ]
+        },
+        {
+            "name": "上海AILAB",
+            "institute": "上海AILAB",
+            "description": "_No response_",
+            "deadline": "2025-05-25T23:59:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/zUqlRTn-dgU0Q6mgn6tbpw",
+            "tags": [
+                "联培"
+            ]
         }
     ],
     "camp2024": [
