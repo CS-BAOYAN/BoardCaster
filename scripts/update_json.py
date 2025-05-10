@@ -22,6 +22,7 @@ tags = [tag.strip() for tag in extract_field(body, "标签（可多选）").repl
 if tags[0] == "_No response_":
     tags = []
 target = extract_field(body, "面向年级")
+province = extract_field(body, "省份")
 
 
 # 新条目拼接
@@ -31,7 +32,8 @@ new_entry = {
     "description": description,
     "deadline": deadline,
     "website": website,
-    "tags": tags
+    "tags": tags,
+    "province": province
 }
 
 # 标签补全逻辑
