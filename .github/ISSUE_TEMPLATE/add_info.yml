@@ -65,6 +65,45 @@ body:
         - 港三
 
   - type: dropdown
+    id: 省份
+    attributes:
+      label: 省份
+      description: 省份
+      multiple: false
+      options:
+        - 北京
+        - 上海
+        - 江苏
+        - 浙江
+        - 广东
+        - 湖北
+        - 四川
+        - 陕西
+        - 天津
+        - 山东
+        - 安徽
+        - 福建
+        - 湖南
+        - 黑龙江
+        - 辽宁
+        - 重庆
+        - 河南
+        - 河北
+        - 吉林
+        - 山西
+        - 江西
+        - 贵州
+        - 云南
+        - 广西
+        - 新疆
+        - 内蒙古
+        - 甘肃
+        - 宁夏
+        - 青海
+        - 西藏
+        - 海南
+
+  - type: dropdown
     id: target
     attributes:
       label: 面向年级
