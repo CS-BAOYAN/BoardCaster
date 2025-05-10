@@ -252,6 +252,17 @@
           "华五"
         ],
         "province": "江苏省"
+      },
+      {
+        "name": "南京大学",
+        "institute": "计算机学院",
+        "description": "南京大学计算机学院\n\n2025年本科生开放日（夏令营）报名通知",
+        "deadline": "2025-06-02T23:59:00+08:00",
+        "website": "https://cs.nju.edu.cn/91/cc/c1702a758220/page.htm",
+        "tags": [
+          "华五"
+        ],
+        "province": "江苏省"
       }
     ],
     "黑龙江省": [
@@ -266,19 +277,6 @@
           "985"
         ],
         "province": "黑龙江省"
-      }
-    ],
-    "江苏": [
-      {
-        "name": "南京大学",
-        "institute": "计算机学院",
-        "description": "南京大学计算机学院\n\n2025年本科生开放日（夏令营）报名通知",
-        "deadline": "2025-06-02T23:59:00+08:00",
-        "website": "https://cs.nju.edu.cn/91/cc/c1702a758220/page.htm",
-        "tags": [
-          "华五"
-        ],
-        "province": "江苏"
       }
     ]
   },
@@ -336,8 +334,9 @@
     },
     {
       "province": "江苏省",
-      "count": 1,
+      "count": 2,
       "schools": [
+        "南京大学",
         "南京大学"
       ]
     },
@@ -346,13 +345,6 @@
       "count": 1,
       "schools": [
         "哈尔滨工业大学"
-      ]
-    },
-    {
-      "province": "江苏",
-      "count": 1,
-      "schools": [
-        "南京大学"
       ]
     }
   ]
