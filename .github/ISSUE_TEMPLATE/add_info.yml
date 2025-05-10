@@ -65,7 +65,7 @@ body:
         - 港三
 
   - type: dropdown
-    id: 省份
+    id: province
     attributes:
       label: 省份
       description: 省份
