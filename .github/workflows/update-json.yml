@@ -26,11 +26,7 @@ jobs:
         python scripts/update_json.py
       env:
         GITHUB_EVENT_PATH: ${{ github.event_path }}
-    - name: Generate new JSON
-      run: |
-        python scripts/generate_new_json.py
-      env:
-        GITHUB_EVENT_PATH: ${{ github.event_path }}
+        
     - name: Commit and push changes
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
