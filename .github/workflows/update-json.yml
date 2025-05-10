@@ -26,7 +26,11 @@ jobs:
         python scripts/update_json.py
       env:
         GITHUB_EVENT_PATH: ${{ github.event_path }}
-
+    - name: Generate new JSON
+      run: |
+        python scripts/generate_new_json.py
+      env:
+        GITHUB_EVENT_PATH: ${{ github.event_path }}
     - name: Commit and push changes
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -34,5 +38,6 @@ jobs:
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
         git add data.json
+        git add camp2025-by-province.json
         git commit -m "Update data.json from issue"
         git push
