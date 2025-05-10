@@ -236,11 +236,12 @@
             "name": "清华大学",
             "institute": "人工智能学院",
             "description": "2025年清华大学人工智能学院大学生学术交流日活动诚邀优秀青年学生报名参与",
-            "deadline": "2025-05-15T13:00:00+8:00",
+            "deadline": "2025-05-15T13:00:00+08:00",
             "website": "https://mp.weixin.qq.com/s/fCoXyjPhaedsY_oz5U-Ddw",
             "tags": [
                 "TOP2"
-            ]
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
