@@ -242,6 +242,17 @@
                 "TOP2"
             ],
             "province": ""
+        },
+        {
+            "name": "南京大学",
+            "institute": "智能科学与技术学院",
+            "description": "_No response_",
+            "deadline": "2025-06-08T17:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/1Jdyfcag_Hr1LcA5EnlEsA",
+            "tags": [
+                "华五"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
