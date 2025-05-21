@@ -253,6 +253,17 @@
                 "华五"
             ],
             "province": ""
+        },
+        {
+            "name": "同济大学",
+            "institute": "计算机科学与技术学院",
+            "description": "_No response_",
+            "deadline": "2025-06-06T12:00:00+08:00",
+            "website": "https://cs.tongji.edu.cn/info/1022/3675.htm",
+            "tags": [
+                "985"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
