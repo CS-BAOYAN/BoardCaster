@@ -275,6 +275,17 @@
                 "985"
             ],
             "province": ""
+        },
+        {
+            "name": "东北师范大学",
+            "institute": "信息科学与技术学院",
+            "description": "_No response_",
+            "deadline": "2025-06-26T17:00:00+08:00",
+            "website": "https://ist.nenu.edu.cn/info/1157/5991.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
