@@ -264,6 +264,17 @@
                 "985"
             ],
             "province": ""
+        },
+        {
+            "name": "中山大学",
+            "institute": "软件工程学院",
+            "description": "网址：https://sse.sysu.edu.cn/article/908",
+            "deadline": "2025-06-05:T23:59:00",
+            "website": "https://sse.sysu.edu.cn/article/908",
+            "tags": [
+                "985"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
