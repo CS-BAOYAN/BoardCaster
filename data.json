@@ -341,6 +341,17 @@
                 "C9"
             ],
             "province": ""
+        },
+        {
+            "name": "哈尔滨工业大学深圳校区",
+            "institute": "集成电路学院",
+            "description": "_No response_",
+            "deadline": "2025-06-07T17:00:00+08:00",
+            "website": "http://ic.hitsz.edu.cn/info/1032/2527.htm",
+            "tags": [
+                "C9"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
