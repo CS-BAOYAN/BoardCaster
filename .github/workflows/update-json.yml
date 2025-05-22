@@ -4,6 +4,10 @@ on:
   issues:
     types: [closed]
 
+concurrency:
+  group: update-json-queue
+  cancel-in-progress: false
+
 jobs:
   update-json:
     runs-on: ubuntu-latest
