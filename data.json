@@ -397,6 +397,17 @@
                 "985"
             ],
             "province": ""
+        },
+        {
+            "name": "同济大学",
+            "institute": "电子与信息工程学院",
+            "description": "_No response_",
+            "deadline": "2025-06-13T12:00:00+08:00",
+            "website": "https://see.tongji.edu.cn/info/1147/13909.htm",
+            "tags": [
+                "985"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
