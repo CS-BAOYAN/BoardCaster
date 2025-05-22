@@ -385,6 +385,17 @@
                 "C9"
             ],
             "province": ""
+        },
+        {
+            "name": "同济大学",
+            "institute": "上海自主智能无人系统科学中心",
+            "description": "_No response_",
+            "deadline": "2025-06-14T17:00:00+08:00",
+            "website": "https://srias.tongji.edu.cn/62/2c/c17827a352812/page.htm",
+            "tags": [
+                "985"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
