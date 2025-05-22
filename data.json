@@ -352,6 +352,17 @@
                 "C9"
             ],
             "province": ""
+        },
+        {
+            "name": "哈尔滨工业大学",
+            "institute": "电气工程及自动化学院",
+            "description": "_No response_",
+            "deadline": "2025-06-01T00:00:00+08:00",
+            "website": "https://hitee.hit.edu.cn/2025/0510/c17101a369720/page.htm",
+            "tags": [
+                "C9"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
