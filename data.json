@@ -205,11 +205,12 @@
             "name": "上海科技大学",
             "institute": "信息科学与技术学院",
             "description": "_No response_",
-            "deadline": "N/A",
-            "website": "https://sist.shanghaitech.edu.cn/2025/0507/c2863a1110700/page.htm",
+            "deadline": "2025-06-23T00:00:00+08:00",
+            "website": "https://sist.shanghaitech.edu.cn/2025/0504/c7339a1110662/page.htm",
             "tags": [
                 "双非"
-            ]
+            ],
+            "province": ""
         },
         {
             "name": "南京大学",
