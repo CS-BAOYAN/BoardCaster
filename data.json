@@ -363,6 +363,17 @@
                 "C9"
             ],
             "province": ""
+        },
+        {
+            "name": "哈尔滨工业大学深圳校区",
+            "institute": "信息科学与技术学院",
+            "description": "_No response_",
+            "deadline": "2025-06-01T00:00:00+08:00",
+            "website": "http://cist.hitsz.edu.cn/info/1038/2039.htm",
+            "tags": [
+                "C9"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
