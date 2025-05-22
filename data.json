@@ -308,6 +308,17 @@
                 "华五"
             ],
             "province": ""
+        },
+        {
+            "name": "浙江大学",
+            "institute": "集成电路学院",
+            "description": "_No response_",
+            "deadline": "2025-06-17T00:00:00",
+            "website": "https://ic.zju.edu.cn/2025/0522/c54011a3054130/page.htm",
+            "tags": [
+                "华五"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
