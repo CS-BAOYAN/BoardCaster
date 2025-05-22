@@ -408,6 +408,17 @@
                 "985"
             ],
             "province": ""
+        },
+        {
+            "name": "清华大学",
+            "institute": "电子工程系",
+            "description": "信息光电子研究所开放日",
+            "deadline": "2025-06-09T00:00:00+08:00",
+            "website": "https://www.ee.tsinghua.edu.cn/info/1078/4783.htm",
+            "tags": [
+                "TOP2"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
