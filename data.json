@@ -419,6 +419,17 @@
                 "TOP2"
             ],
             "province": ""
+        },
+        {
+            "name": "中国科学院大学",
+            "institute": "前沿交叉科学学院",
+            "description": "前沿交叉科学学院定于2025年6月19日-22日线上举办“2025年优秀大学生夏令营”活动，主要面向人工智能、集成电路、量子科技和生物制造等领域。",
+            "deadline": "2025-05-31T00:00:00+08:00",
+            "website": "https://sais.ucas.ac.cn/index.php/zh/xwgs/tgzs/1326-2025-2",
+            "tags": [
+                "双非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
