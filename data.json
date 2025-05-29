@@ -463,6 +463,17 @@
                 "C9"
             ],
             "province": ""
+        },
+        {
+            "name": "北京中关村学院",
+            "institute": "北京中关村学院",
+            "description": "_No response_",
+            "deadline": "2025-06-25T17:00:00+08:00",
+            "website": "http://www.bjzgca.edu.cn/NewsDetail.aspx?ID=363",
+            "tags": [
+                "联培"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
