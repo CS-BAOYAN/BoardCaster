@@ -452,6 +452,17 @@
                 "C9"
             ],
             "province": ""
+        },
+        {
+            "name": "西安交通大学",
+            "institute": "计算机学院",
+            "description": "6月1号开始报名",
+            "deadline": "2025-06-11T00:00:00+08:00",
+            "website": "http://www.cs.xjtu.edu.cn/info/1233/3673.htm",
+            "tags": [
+                "C9"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
