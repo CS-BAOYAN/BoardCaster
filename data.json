@@ -174,11 +174,12 @@
             "name": "上海交通大学",
             "institute": "密西根学院",
             "description": "_No response_",
-            "deadline": "2025-06-23T00:00:00+08:00",
-            "website": "https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2025-04-25/153326/",
+            "deadline": "2025-06-23T00:00:00",
+            "website": "https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx",
             "tags": [
                 "华五"
-            ]
+            ],
+            "province": ""
         },
         {
             "name": "南京大学",
