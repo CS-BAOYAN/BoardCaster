@@ -521,6 +521,17 @@
                 "985"
             ],
             "province": ""
+        },
+        {
+            "name": "北京师范大学",
+            "institute": "文理学院",
+            "description": "_No response_",
+            "deadline": "2025-06-15T23:59:59+08:00",
+            "website": "https://fas.bnu.edu.cn/xwdt/tzgg/cf10654007224bf083a1f961611ab37c.htm",
+            "tags": [
+                "985"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
