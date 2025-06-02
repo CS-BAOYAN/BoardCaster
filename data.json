@@ -435,11 +435,14 @@
         {
             "name": "浙江大学",
             "institute": "计算机学院",
-            "description": "浙江大学计算机学院2025年暑期实习生计划",
-            "deadline": "2025-06-26T00:00:00+08:00",
+            "description": "_No response_",
+            "deadline": "2025-06-25T00:00:00+08:00",
             "website": "http://www.cs.zju.edu.cn/csen/2025/0528/c27011a3056015/page.htm",
             "tags": [
-                "华五"
+                "华五",
+                "985",
+                "211",
+                "C9"
             ],
             "province": ""
         },
