@@ -581,6 +581,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "上海交通大学",
+            "institute": "计算机学院",
+            "description": "_No response_",
+            "deadline": "2025-06-25T00:00:00+08:00",
+            "website": "https://ga.sjtu.edu.cn/zsgl/xlygl/yxhdbfcxnr.aspx",
+            "tags": [
+                "C9"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
