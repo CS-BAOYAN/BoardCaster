@@ -603,6 +603,17 @@
                 "TOP2"
             ],
             "province": ""
+        },
+        {
+            "name": "吉林大学",
+            "institute": "计算机科学与技术学院",
+            "description": "_No response_",
+            "deadline": "2025-06-20T12:00:00+08:00",
+            "website": "https://ccst.jlu.edu.cn/info/1229/20419.htm",
+            "tags": [
+                "985"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
