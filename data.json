@@ -681,6 +681,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "中国科学院大学",
+            "institute": "信息工程研究所",
+            "description": "https://mp.weixin.qq.com/s/DCO0ZoN8AYKKxmc8r9yklg",
+            "deadline": "2025-06-26T23:59:59+08:00",
+            "website": "https://mp.weixin.qq.com/s/DCO0ZoN8AYKKxmc8r9yklg",
+            "tags": [
+                "双非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
