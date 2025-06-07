@@ -607,11 +607,12 @@
         {
             "name": "吉林大学",
             "institute": "计算机科学与技术学院",
-            "description": "_No response_",
-            "deadline": "2025-06-20T12:00:00+08:00",
+            "description": "吉林大学计算机科学与技术学院\nhttps://ccst.jlu.edu.cn/info/1229/20419.htm",
+            "deadline": "2025年6月20日12:00:00+08:00",
             "website": "https://ccst.jlu.edu.cn/info/1229/20419.htm",
             "tags": [
-                "985"
+                "985",
+                "211"
             ],
             "province": ""
         },
