@@ -692,6 +692,17 @@
                 "双非"
             ],
             "province": ""
+        },
+        {
+            "name": "浙江大学",
+            "institute": "网络空间安全学院",
+            "description": "_No response_",
+            "deadline": "2025-6-25T00:00:00+8:00",
+            "website": "https://icsr.zju.edu.cn/2025/0530/c70144a3057299/page.htm",
+            "tags": [
+                "华五"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
