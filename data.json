@@ -714,6 +714,17 @@
                 "TOP2"
             ],
             "province": ""
+        },
+        {
+            "name": "北京大学",
+            "institute": "电子学院",
+            "description": "_No response_",
+            "deadline": "2025-06-18T00:00:00+08:00",
+            "website": "https://ele.pku.edu.cn/info/1063/3698.htm",
+            "tags": [
+                "TOP2"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
