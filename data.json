@@ -736,6 +736,17 @@
                 "TOP2"
             ],
             "province": ""
+        },
+        {
+            "name": "中山大学",
+            "institute": "集成电路学院",
+            "description": "_No response_",
+            "deadline": "2025-06-23T00:00:00+08:00",
+            "website": "https://sic.sysu.edu.cn/rc/rc05/1419220.htm",
+            "tags": [
+                "985"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
