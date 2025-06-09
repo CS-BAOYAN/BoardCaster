@@ -725,6 +725,17 @@
                 "TOP2"
             ],
             "province": ""
+        },
+        {
+            "name": "北京大学",
+            "institute": "集成电路学院",
+            "description": "_No response_",
+            "deadline": "2025-06-18T00:00:00+08:00",
+            "website": "https://ic.pku.edu.cn/rcpy/yjszs/fe8d13de71c144ddadc0ba59d283ed5d.htm",
+            "tags": [
+                "TOP2"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
