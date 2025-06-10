@@ -747,6 +747,17 @@
                 "985"
             ],
             "province": ""
+        },
+        {
+            "name": "复旦大学",
+            "institute": "大数据学院",
+            "description": "6月15日10:00开始报名",
+            "deadline": "2025-07-05T17:00:00+08:00",
+            "website": "https://sds.fudan.edu.cn/3d/23/c17701a736547/page.htm",
+            "tags": [
+                "华五"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
