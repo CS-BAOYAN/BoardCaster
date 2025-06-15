@@ -804,6 +804,17 @@
                 "研究院"
             ],
             "province": ""
+        },
+        {
+            "name": "上海交通大学",
+            "institute": "人工智能学院",
+            "description": "_No response_",
+            "deadline": "2025-07-04T00:00:00+08:00",
+            "website": "https://soai.sjtu.edu.cn/cn/show/322",
+            "tags": [
+                "华五"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
