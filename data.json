@@ -917,6 +917,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "深圳大学",
+            "institute": "计算机与软件学院",
+            "description": "校外学员在夏令营学习期间可以免费入住深圳大学校内宿舍，此外，还为每位校外学员提供共800元的食宿补助、交通补助和短期保险。",
+            "deadline": "2025-07-01T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/lHSVRz6jjc8V1H2oiR-G3g",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
