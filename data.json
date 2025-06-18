@@ -1020,6 +1020,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "北京航空航天大学",
+            "institute": "软件学院",
+            "description": "不发offer",
+            "deadline": "2025-06-26T12:00:00+08:00",
+            "website": "https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1117&wbnewsid=11912",
+            "tags": [
+                "985"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
