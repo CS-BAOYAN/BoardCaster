@@ -1031,6 +1031,18 @@
                 "985"
             ],
             "province": ""
+        },
+        {
+            "name": "中国人民大学",
+            "institute": "信息学院",
+            "description": "_No response_",
+            "deadline": "2025-07-05T17:00:00+08:00",
+            "website": "http://info.ruc.edu.cn/xwgg/xygg/eecc5e59b2434c7dad634d1cbc517927.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
