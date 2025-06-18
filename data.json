@@ -963,6 +963,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "华东理工大学",
+            "institute": "信息科学与工程学院",
+            "description": "本次夏令营招收学员100名左右。网络远程，使用腾讯会议平台",
+            "deadline": "2025-06-26T00:00:00+08:00",
+            "website": "https://cise.ecust.edu.cn/2025/0618/c7692a179923/page.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
