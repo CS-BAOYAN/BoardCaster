@@ -1220,6 +1220,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "北京交通大学",
+            "institute": "网络空间安全学院",
+            "description": "_No response_",
+            "deadline": "2025-07-07T12:00:00+08:00",
+            "website": "https://cst.bjtu.edu.cn/rcpy/yjszs2/zszx_yjs/e4d8fe8d46f34c43ad5321cc855a5549.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
