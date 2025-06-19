@@ -1125,6 +1125,17 @@
                 "C9"
             ],
             "province": ""
+        },
+        {
+            "name": "华东师范大学",
+            "institute": "计算机科学与技术学院",
+            "description": "7.22举行",
+            "deadline": "2025-07-05T23:59:59+08:00",
+            "website": "https://mp.weixin.qq.com/s/-4TkxgzNEUW2o8WXPqUIRg",
+            "tags": [
+                "985"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
