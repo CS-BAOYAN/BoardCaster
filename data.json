@@ -1231,6 +1231,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "深圳大学",
+            "institute": "人工智能学院",
+            "description": "1.学生全勤并提交一份合格的科研报告可获得结业证书。2.学院统一安排暑期学校期间食宿。",
+            "deadline": "2025-07-08T21:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/P_kfeO4r2kGIhMbw0cyhDQ",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
