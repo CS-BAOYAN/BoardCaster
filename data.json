@@ -1349,6 +1349,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "北京林业大学",
+            "institute": "工学院",
+            "description": "1. 学术型硕士：机械工程、林业装备与信息化、林业电气化与自动化；\n\n2.专业型硕士：机械、电子信息（控制、人工智能方向）。",
+            "deadline": "2025-06-29T00:00:00+08:00",
+            "website": "https://gxy.bjfu.edu.cn/yanjiushengjiaoyu/yanjiushengzhaosheng/6739baef0b8049b3b53df2eda0fe6f92.html",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
