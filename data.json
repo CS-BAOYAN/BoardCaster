@@ -1407,6 +1407,17 @@
                 "四非"
             ],
             "province": ""
+        },
+        {
+            "name": "南京大学",
+            "institute": "人工智能学院",
+            "description": "_No response_",
+            "deadline": "2025-07-15T00:09:00+08:00",
+            "website": "https://ai.nju.edu.cn/b3/f5/c53055a766965/page.htm",
+            "tags": [
+                "华五"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
