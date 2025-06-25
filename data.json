@@ -1418,6 +1418,17 @@
                 "华五"
             ],
             "province": ""
+        },
+        {
+            "name": "江南大学",
+            "institute": "机械工程学院",
+            "description": "学术型硕士：机械工程（080200）、包装工程（0802Z1）；全日制专业硕士：机械工程（085501）。",
+            "deadline": "2025-07-04T00:00:00+08:00",
+            "website": "https://sme.jiangnan.edu.cn/info/1070/7593.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
