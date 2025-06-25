@@ -1382,6 +1382,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "首都体育学院",
+            "institute": "体育人工智能研究院",
+            "description": "体育人工智能研究院将为营员统一购买夏令营活动期间的意外保险，并统一安排夏令营期间的午餐。参加夏令营的交通和住宿费用由营员自理。",
+            "deadline": "2025-06-30T12:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/727ANj4yMqKZtaiVMgZ_3Q",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
