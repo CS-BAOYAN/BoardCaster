@@ -1452,6 +1452,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "南京师范大学",
+            "institute": "计算机与电子信息学院/人工智能学院",
+            "description": "活动场所：线上（使用的网络平台、具体日程安排及确定学员名单后续通知）",
+            "deadline": "2025-07-01T00:00:00+08:00",
+            "website": "http://ceai.njnu.edu.cn/info/1551/18311.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
