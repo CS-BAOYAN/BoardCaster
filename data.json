@@ -1474,6 +1474,18 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "华东师范大学",
+            "institute": "电子信息（人工智能领域）专业学位产教融合",
+            "description": "计算机科学与技术、软件工程、数据科学与大数据技术、智能科学与技术、通信工程、微电子、网络安全、数学、物理、统计等相关专业",
+            "deadline": "2025-07-09T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/DEMkpO0H9DlWBGVj6aOixQ?scene=1",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
