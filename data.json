@@ -1534,6 +1534,19 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "复旦大学",
+            "institute": "计算与智能创新学院",
+            "description": "本次夏令营活动拟于8月下旬进行",
+            "deadline": "2025-07-20T17:00:00+08:00",
+            "website": "https://cs.fudan.edu.cn/46/40/c24277a738880/page.htm",
+            "tags": [
+                "C9",
+                "985",
+                "华五"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
