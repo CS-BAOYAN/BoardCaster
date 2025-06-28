@@ -1618,6 +1618,18 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "北京航空航天大学",
+            "institute": "无人系统研究院",
+            "description": "航空航天类、电子信息类、控制类、计算机类、人工智能类等相关专业优先",
+            "deadline": "2025-07-08T18:00:00+08:00",
+            "website": "https://wrj.buaa.edu.cn/info/1008/2609.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
