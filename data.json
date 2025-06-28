@@ -1666,6 +1666,18 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "东南大学",
+            "institute": "自动化学院",
+            "description": "本科专业为自动化、机器人、测控技术、电气、计算机、人工智能、信息、电子、机械、数学等相关专业类",
+            "deadline": "2025-07-31T12:00:00+08:00",
+            "website": "https://automation.seu.edu.cn/2025/0627/c24460a534576/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
