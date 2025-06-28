@@ -1607,6 +1607,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "江南大学",
+            "institute": "智能制造学院",
+            "description": "智能制造学院现招收机械工程博士、机械工程学硕、机械工程专硕、机器人工程专硕。本次夏令营拟招收营员40名。",
+            "deadline": "2025-07-04T00:00:00+08:00",
+            "website": "https://im.jiangnan.edu.cn/info/1044/1781.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
