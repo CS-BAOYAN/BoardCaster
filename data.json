@@ -1642,6 +1642,18 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "山东大学",
+            "institute": "计算机科学与技术学院/人工智能学院",
+            "description": "又一个宣讲营",
+            "deadline": "2025-07-08T00:00:00+08:00",
+            "website": "https://www.cs.sdu.edu.cn/info/1068/6585.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
