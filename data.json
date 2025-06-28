@@ -1654,6 +1654,18 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "东南大学",
+            "institute": "土木工程学院",
+            "description": "智慧建造",
+            "deadline": "2025-07-24T12:00:00+08:00",
+            "website": "https://civil.seu.edu.cn/2025/0627/c19887a534565/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
