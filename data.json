@@ -1678,6 +1678,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "山西大学",
+            "institute": "自动化与软件学院",
+            "description": "山大",
+            "deadline": "2025-07-01T12:00:00+08:00",
+            "website": "https://zdhse.sxu.edu.cn/zxgg/c47fa2ffd5d64247872f935ccce91f7a.htm",
+            "tags": [
+                "双非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
