@@ -1701,6 +1701,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "东华大学",
+            "institute": "信息科学与技术学院",
+            "description": "_No response_",
+            "deadline": "2025-07-04T16:00:00+08:00",
+            "website": "https://web.dhu.edu.cn/cist/2025/0630/c3004a363415/page.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
