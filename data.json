@@ -1689,6 +1689,18 @@
                 "双非"
             ],
             "province": ""
+        },
+        {
+            "name": "中南大学",
+            "institute": "计算机学院",
+            "description": "40人国际暑期学校",
+            "deadline": "2025-08-01T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/Itg2xp7C2C8IN0vJMNxj3w",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
