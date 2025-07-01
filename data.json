@@ -1712,6 +1712,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "华东理工大学",
+            "institute": "卓越工程师学院",
+            "description": "线下遴选50人",
+            "deadline": "2025-07-04T12:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/i2gZZwALYl33Cl2IIMa6Eg",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
