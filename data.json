@@ -1828,6 +1828,18 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "西北工业大学",
+            "institute": "网络空间安全学院",
+            "description": "线上组织学院及学科介绍、学术讲座",
+            "deadline": "2025-07-06T21:00:00+08:00",
+            "website": "https://wlkjaqxy.nwpu.edu.cn/info/1103/13630.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
