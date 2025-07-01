@@ -1782,6 +1782,17 @@
                 "双非"
             ],
             "province": ""
+        },
+        {
+            "name": "北京邮电大学",
+            "institute": "集成电路学院",
+            "description": "https://ic.bupt.edu.cn/info/1024/1576.htm",
+            "deadline": "2025-07-10T00:00:00+08:00",
+            "website": "https://ic.bupt.edu.cn/info/1024/1576.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
