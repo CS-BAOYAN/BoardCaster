@@ -1793,6 +1793,18 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "电子科技大学",
+            "institute": "深圳高等研究院",
+            "description": "7月9日-7月10日暑期夏令营开营仪式，高研院介绍、专业介绍，学术讲座、高研院团队介绍",
+            "deadline": "2025-07-09T00:00:00+08:00",
+            "website": "https://sias.uestc.edu.cn/info/1235/5741.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
