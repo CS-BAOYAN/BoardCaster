@@ -1922,6 +1922,20 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "南京大学",
+            "institute": "匡亚明学院",
+            "description": "学院导师简介如下：https://dii.nju.edu.cn/lsjs/list.htm；导师的代表性研究论文如下：https://box.nju.edu.cn/d/2da280d72ae24bce9167/。请选择至少两篇论文，分别撰写不少于2000字/篇的阅读笔记。内容包括但不限于：①论文的研究背景、研究方法和关键结论；②对论文相关内容开展后续研究的思考",
+            "deadline": "2025-07-23T00:00:00+08:00",
+            "website": "https://dii.nju.edu.cn/b8/d3/c11317a768211/page.htm",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
