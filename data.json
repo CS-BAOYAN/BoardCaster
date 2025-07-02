@@ -1999,6 +1999,20 @@
                 "C9"
             ],
             "province": ""
+        },
+        {
+            "name": "复旦大学",
+            "institute": "空间互联网研究院",
+            "description": "第二波！复旦大学空间互联网研究院 2025年全国优秀大学生夏令营报名通知（计算机科学与技术方向）",
+            "deadline": "2025-07-20T17:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/r5xi0vsceb8L6l2V5wth0Q",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
