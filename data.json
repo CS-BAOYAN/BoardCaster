@@ -1973,6 +1973,18 @@
                 "C9"
             ],
             "province": ""
+        },
+        {
+            "name": "国防科技大学",
+            "institute": "前沿交叉学科学院",
+            "description": "_No response_",
+            "deadline": "2025-07-12T00:00:00+08:00",
+            "website": "http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=14509",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
