@@ -1948,6 +1948,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "首都医科大学",
+            "institute": "生物医学工程学院",
+            "description": "生物医学工程10人，电子信息技术4人",
+            "deadline": "2025-07-04T10:00:00+08:00",
+            "website": "https://yjsh.ccmu.edu.cn/yytz_2977/zs_3101/e0f0a819dbad44cc882bcaeea7533141.htm",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
