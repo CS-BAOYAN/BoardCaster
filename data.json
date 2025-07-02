@@ -1864,6 +1864,18 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "东北大学",
+            "institute": "软件学院",
+            "description": "外校优秀学生人数不超过30人",
+            "deadline": "2025-07-07T00:00:00+08:00",
+            "website": "http://sc.neu.edu.cn/2025/0702/c144a288807/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
