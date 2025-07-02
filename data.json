@@ -1876,6 +1876,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "中国科学院大学",
+            "institute": "计算机科学与技术学院",
+            "description": "本部预推免",
+            "deadline": "2025-09-11T00:00:00+08:00",
+            "website": "https://scce.ucas.ac.cn/index.php/zh-CN/tzgg/3589-2026",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
