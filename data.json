@@ -1985,6 +1985,20 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "上海交通大学",
+            "institute": "溥渊未来技术学院",
+            "description": "一般应为“双一流”建设高校或“双一流”建设相关专业的本科三年级在校生（2026年应届本科毕业生）",
+            "deadline": "2025-07-10T17:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/qQHFrgrcz5znqfFgcamTGw",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
