@@ -2059,6 +2059,18 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "国防科技大学",
+            "institute": "计算机学院",
+            "description": "为参加线下活动的营员免费提供讲义、文具等学习资料和用品，免收学杂费，按标准提供免费食宿。最终推免录取为计算机学院研究生的营员按不超过高铁二等座标准提供往返交通补助。",
+            "deadline": "2025-07-11T00:00:00+08:00",
+            "website": "http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=14505",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
