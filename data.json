@@ -2141,6 +2141,17 @@
                 "C9"
             ],
             "province": ""
+        },
+        {
+            "name": "中国科学院大学",
+            "institute": "人工智能学院",
+            "description": "请符合报名要求的考生将电子版的申请材料发送到拟报考导师或课题组的相应电子邮箱， 并在中国科学院大学推免申请系统进行报名",
+            "deadline": "2025-09-29T00:00:00+08:00",
+            "website": "https://ai.ucas.ac.cn/index.php/zh-cn/tzgg/7535-2026-2",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
