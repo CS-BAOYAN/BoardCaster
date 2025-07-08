@@ -2165,6 +2165,18 @@
                 "联培"
             ],
             "province": ""
+        },
+        {
+            "name": "南开大学",
+            "institute": "软件学院",
+            "description": "预推免",
+            "deadline": "2025-09-03T00:00:00+08:00",
+            "website": "https://cs.nankai.edu.cn/info/1076/3424.htm",
+            "tags": [
+                "211",
+                "985"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
