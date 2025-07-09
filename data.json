@@ -2201,6 +2201,18 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "南开大学",
+            "institute": "计算机学院 && 密码与网络空间安全学院",
+            "description": "预推免",
+            "deadline": "2025-09-13T00:00:00+08:00",
+            "website": "https://cc.nankai.edu.cn/2025/0708/c13297a575022/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
