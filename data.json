@@ -2225,6 +2225,18 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "大连理工大学",
+            "institute": "计算机科学与技术",
+            "description": "_No response_",
+            "deadline": "2025-07-11T09:00:00+08:00",
+            "website": "https://cs.dlut.edu.cn/info/1256/5159.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
