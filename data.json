@@ -2248,6 +2248,18 @@
                 "985"
             ],
             "province": ""
+        },
+        {
+            "name": "北京理工大学",
+            "institute": "前沿交叉科学院",
+            "description": "线上",
+            "deadline": "2025-07-15T00:00:00+08:00",
+            "website": "https://sis.bit.edu.cn/tzgg/4af77b67dabb48cd92f115b69f6a1cc3.htm?sessionid=-208621919",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
