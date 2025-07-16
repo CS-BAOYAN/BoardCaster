@@ -2328,6 +2328,17 @@
                 "双非"
             ],
             "province": ""
+        },
+        {
+            "name": "暨南大学",
+            "institute": "网络空间安全学院",
+            "description": "线上",
+            "deadline": "2025-07-26T00:00:00+08:00",
+            "website": "https://cybsec.jnu.edu.cn/2025/0714/c39579a840444/page.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
