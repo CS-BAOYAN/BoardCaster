@@ -2350,6 +2350,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "云南大学",
+            "institute": "信息学院",
+            "description": "线上",
+            "deadline": "2025-07-24T00:00:00+08:00",
+            "website": "http://www.ise.ynu.edu.cn/annunciations/312",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
