@@ -2317,6 +2317,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "南京邮电大学",
+            "institute": "物联网学院",
+            "description": "线上",
+            "deadline": "2025-07-19T17:00:00+08:00",
+            "website": "https://ciot.njupt.edu.cn/2025/0712/c10653a287235/page.htm",
+            "tags": [
+                "双非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
