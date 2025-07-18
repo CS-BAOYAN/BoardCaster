@@ -2361,6 +2361,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "北京协和医学院",
+            "institute": "医学信息研究所",
+            "description": "_No response_",
+            "deadline": "2025-07-21T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/PGYfM9cOpJoQZFNvMgU60A?scene=1&click_id=1",
+            "tags": [
+                "双非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
