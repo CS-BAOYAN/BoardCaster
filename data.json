@@ -2399,6 +2399,17 @@
                 "C9"
             ],
             "province": ""
+        },
+        {
+            "name": "西安电子科技大学",
+            "institute": "人工智能学院",
+            "description": "预推免\n在“2026年推免生预报名”模块选择人工智能学院，按照报名要求填写相关信息，联系确认导师进行预报名",
+            "deadline": "2025-09-25T00:00:00+08:00",
+            "website": "https://sai.xidian.edu.cn/info/1106/12942.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
