@@ -41,3 +41,6 @@ jobs:
         git add camp2025-by-province.json
         git commit -m "Update data.json from issue"
         git push
+        
+    - name: Wait
+      run: sleep 10
