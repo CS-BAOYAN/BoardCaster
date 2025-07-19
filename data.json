@@ -2539,6 +2539,17 @@
                 "四非"
             ],
             "province": ""
+        },
+        {
+            "name": "空军预警学院",
+            "institute": "入伍",
+            "description": "预推免",
+            "deadline": "2025-07-31T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/guRKIHQbkkBpFDgvPNd5Sw",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
