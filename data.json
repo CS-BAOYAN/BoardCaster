@@ -2447,6 +2447,18 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "中山大学",
+            "institute": "计算机学院",
+            "description": "预推免",
+            "deadline": "2025-08-16T23:59:00+08:00",
+            "website": "https://cse.sysu.edu.cn/article/3279",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
