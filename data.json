@@ -2550,6 +2550,17 @@
                 "四非"
             ],
             "province": ""
+        },
+        {
+            "name": "火箭军工程大学",
+            "institute": "1,2,3院入伍",
+            "description": "预推免",
+            "deadline": "2025-07-30T12:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/DV6mu92s0TY4p2chYlpnyA",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
