@@ -24,6 +24,14 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
+        
+    - name: Pull changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@github.com'
+        git pull
 
     - name: Update JSON with issue content
       run: |
@@ -41,6 +49,3 @@ jobs:
         git add camp2025-by-province.json
         git commit -m "Update data.json from issue"
         git push
-        
-    - name: Wait
-      run: sleep 10
