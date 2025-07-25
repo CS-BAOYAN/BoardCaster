@@ -2606,6 +2606,17 @@
                 "双非"
             ],
             "province": ""
+        },
+        {
+            "name": "中国科学院大学",
+            "institute": "沈阳计算技术研究所",
+            "description": "预推免",
+            "deadline": "2025-10-20T00:00:00+08:00",
+            "website": "http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=15&id=165",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
