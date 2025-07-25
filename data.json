@@ -2617,6 +2617,17 @@
                 "四非"
             ],
             "province": ""
+        },
+        {
+            "name": "西安电子科技大学",
+            "institute": "广州卓越工程师学院(粤港澳大湾区基地)",
+            "description": "预推免",
+            "deadline": "2025-09-19T00:00:00+08:00",
+            "website": "https://gzyjy.xidian.edu.cn/info/1009/19512.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
