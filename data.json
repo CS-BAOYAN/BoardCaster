@@ -2686,6 +2686,22 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "清华大学",
+            "institute": "全球创新学院",
+            "description": "预推免",
+            "deadline": "2025-07-28T12:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/nw3WIR8ZGpWMEVPs4Em2Tg",
+            "tags": [
+                "TOP2",
+                "华五",
+                "C9",
+                "985",
+                "211",
+                "联培"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
