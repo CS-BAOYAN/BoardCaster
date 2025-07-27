@@ -2702,6 +2702,17 @@
                 "联培"
             ],
             "province": ""
+        },
+        {
+            "name": "南京邮电大学",
+            "institute": "计算机学院、软件学院、网络空间安全学院",
+            "description": "“边缘智能与网络安全”暑期学校",
+            "deadline": "2025-07-30T00:00:00+08:00",
+            "website": "https://cs.njupt.edu.cn/2025/0623/c16083a286255/page.htm",
+            "tags": [
+                "双非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
