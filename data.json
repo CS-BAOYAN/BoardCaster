@@ -2738,6 +2738,19 @@
                 "华五"
             ],
             "province": ""
+        },
+        {
+            "name": "哈尔滨工业大学",
+            "institute": "(深圳)信息科学与技术学院",
+            "description": "预推免",
+            "deadline": "2025-09-17T00:00:00+08:00",
+            "website": "http://cist.hitsz.edu.cn/info/1038/2167.htm",
+            "tags": [
+                "C9",
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
