@@ -2764,6 +2764,20 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "浙江大学",
+            "institute": "计算机科学与技术学院",
+            "description": "预推免",
+            "deadline": "2025-09-08T12:00:00+08:00",
+            "website": "http://www.cs.zju.edu.cn/csen/2025/0728/c27006a3071976/page.htm",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
