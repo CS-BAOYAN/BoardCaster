@@ -2834,6 +2834,17 @@
                 "华五"
             ],
             "province": ""
+        },
+        {
+            "name": "西安电子科技大学",
+            "institute": "空间科学与技术学院",
+            "description": "预推免",
+            "deadline": "2025-09-20T00:00:00+08:00",
+            "website": "https://sast.xidian.edu.cn/info/1014/13647.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
