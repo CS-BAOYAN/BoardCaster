@@ -2904,6 +2904,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "中国科学院",
+            "institute": "自动化所",
+            "description": "预推免",
+            "deadline": "2025-08-19T00:00:00+08:00",
+            "website": "https://ia.cas.cn/yjsjy/zs/sszs/202507/t20250731_7899790.html",
+            "tags": [
+                "研究院"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
