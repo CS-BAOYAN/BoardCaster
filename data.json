@@ -2881,6 +2881,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "中国科学院",
+            "institute": "声学研究所",
+            "description": "预推免(各研究单元将视名额情况择优进行分批面试。)",
+            "deadline": "2025-09-29T00:00:00+08:00",
+            "website": "http://ioa.cas.cn/yjs/zsxx/zstz/202508/t20250801_7900469.html",
+            "tags": [
+                "研究院"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
