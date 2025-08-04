@@ -2859,6 +2859,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "广西大学",
+            "institute": "ALL",
+            "description": "预推免",
+            "deadline": "2025-08-29T00:00:00+08:00",
+            "website": "https://yjsc.gxu.edu.cn/info/1021/4015.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
