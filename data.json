@@ -2870,6 +2870,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "中国石油大学(北京)",
+            "institute": "人工智能学院",
+            "description": "预推免",
+            "deadline": "2025-09-03T23:59:00+08:00",
+            "website": "https://www.cup.edu.cn/cupai/tzgg/d89506d4c98e47b087eba297909d2212.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
