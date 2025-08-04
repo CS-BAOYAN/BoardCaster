@@ -216,13 +216,16 @@
         {
             "name": "南京大学",
             "institute": "计算机学院",
-            "description": "南京大学计算机学院\n\n2025年本科生开放日（夏令营）报名通知",
-            "deadline": "2025-06-02T23:59:00+08:00",
-            "website": "https://cs.nju.edu.cn/91/cc/c1702a758220/page.htm",
+            "description": "预推免",
+            "deadline": "2025-08-10T23:59:59+08:00",
+            "website": "https://cs.nju.edu.cn/cb/d4/c1702a773076/page.htm",
             "tags": [
-                "华五"
+                "C9",
+                "华五",
+                "985",
+                "211"
             ],
-            "province": "江苏省"
+            "province": ""
         },
         {
             "name": "上海AILAB",
