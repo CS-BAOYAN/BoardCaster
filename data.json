@@ -2848,6 +2848,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "陕西师范大学",
+            "institute": "ALL",
+            "description": "预推免",
+            "deadline": "2025-09-11T00:00:00+08:00",
+            "website": "http://yz.snnu.edu.cn/info/1009/7671.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
