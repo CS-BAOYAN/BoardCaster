@@ -2915,6 +2915,17 @@
                 "研究院"
             ],
             "province": ""
+        },
+        {
+            "name": "上海科技大学",
+            "institute": "信息学院",
+            "description": "预推免",
+            "deadline": "2025-09-19T00:00:00+08:00",
+            "website": "https://sist.shanghaitech.edu.cn/2025/0731/c7339a1113671/page.htm",
+            "tags": [
+                "双非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
