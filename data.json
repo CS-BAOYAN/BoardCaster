@@ -2987,6 +2987,17 @@
                 "四非"
             ],
             "province": ""
+        },
+        {
+            "name": "北京科技大学",
+            "institute": "智能科学与技术学院",
+            "description": "预推免",
+            "deadline": "2025-08-28T17:00:00+08:00",
+            "website": "https://ai.ustb.edu.cn/xwgg/tzgg/79048df311dc467699ed5a356529d0a8.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
