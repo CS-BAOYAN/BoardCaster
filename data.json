@@ -2963,6 +2963,18 @@
                 "研究院"
             ],
             "province": ""
+        },
+        {
+            "name": "湖南大学",
+            "institute": "国家卓越工程师学院",
+            "description": "预推免(动态接受，额满为止)",
+            "deadline": "2025-09-29T00:00:00+08:00",
+            "website": "https://ngcee.hnu.edu.cn/info/1083/3067.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
