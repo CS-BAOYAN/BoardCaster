@@ -2975,6 +2975,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "天津理工大学",
+            "institute": "ALL",
+            "description": "预推免",
+            "deadline": "2025-09-11T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/gPjju3j2ltzFeajWt6LEUA",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
