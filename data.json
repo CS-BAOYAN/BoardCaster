@@ -2952,6 +2952,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "中国科学院",
+            "institute": "计算机网络信息中心",
+            "description": "预推免",
+            "deadline": "2025-09-08T00:00:00+08:00",
+            "website": "https://cnic.cas.cn/yjsjy/zsxx/tjms/202508/t20250807_7901512.html",
+            "tags": [
+                "研究院"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
