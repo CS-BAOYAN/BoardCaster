@@ -2940,6 +2940,18 @@
                 "双非"
             ],
             "province": ""
+        },
+        {
+            "name": "南开大学",
+            "institute": "卓越工程师学院",
+            "description": "预推免",
+            "deadline": "2025-09-08T00:00:00+08:00",
+            "website": "https://yzxt.nankai.edu.cn/intern/frontend/web/pg-net-sign-up/index?id=27",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
