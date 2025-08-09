@@ -3037,6 +3037,19 @@
                 "研究院"
             ],
             "province": ""
+        },
+        {
+            "name": "哈尔滨工业大学",
+            "institute": "（深圳）智能学部",
+            "description": "预推免（学部将通过推免生信息采集系统及邮件（或其他形式）分批次通知学生审核通过情况）",
+            "deadline": "2025-09-11T00:00:00+08:00",
+            "website": "http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1521",
+            "tags": [
+                "C9",
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
