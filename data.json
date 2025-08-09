@@ -3050,6 +3050,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "中国科学院",
+            "institute": "成都计算所",
+            "description": "预推免",
+            "deadline": "2025-09-11T00:00:00+08:00",
+            "website": "http://www.casit.ac.cn/tongzhi/308.html",
+            "tags": [
+                "研究院"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
