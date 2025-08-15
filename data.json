@@ -3160,6 +3160,18 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "厦门大学",
+            "institute": "信息学院（特色化示范性软件学院）",
+            "description": "预推免",
+            "deadline": "2025-09-08T00:00:00+08:00",
+            "website": "https://informatics.xmu.edu.cn/info/1050/47240.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
