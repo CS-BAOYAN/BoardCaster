@@ -1420,11 +1420,14 @@
         {
             "name": "南京大学",
             "institute": "人工智能学院",
-            "description": "_No response_",
-            "deadline": "2025-07-15T00:09:00+08:00",
-            "website": "https://ai.nju.edu.cn/b3/f5/c53055a766965/page.htm",
+            "description": "预推免",
+            "deadline": "2025-08-31T17:00:00+08:00",
+            "website": "https://ai.nju.edu.cn/f6/b8/c53055a784056/page.htm",
             "tags": [
-                "华五"
+                "华五",
+                "C9",
+                "985",
+                "211"
             ],
             "province": ""
         },
