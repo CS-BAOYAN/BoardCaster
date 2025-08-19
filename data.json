@@ -3229,6 +3229,17 @@
                 "研究院"
             ],
             "province": ""
+        },
+        {
+            "name": "山东师范大学",
+            "institute": "ALL",
+            "description": "预推免",
+            "deadline": "2025-09-26T00:00:00+08:00",
+            "website": "http://www.yjszs.sdnu.edu.cn/info/1015/4675.htm",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
