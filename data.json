@@ -3218,6 +3218,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "中国科学院",
+            "institute": "国家授时中心",
+            "description": "预推免",
+            "deadline": "2025-09-20T00:00:00+08:00",
+            "website": "http://www.ntsc.cas.cn/xwzx_/tzgg/202508/t20250819_7906891.html",
+            "tags": [
+                "研究院"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
