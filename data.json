@@ -3206,6 +3206,18 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "大连理工大学",
+            "institute": "计算机科学与技术学院",
+            "description": "预推免",
+            "deadline": "2025-09-16T00:00:00+08:00",
+            "website": "http://cs.dlut.edu.cn/info/1256/5249.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
