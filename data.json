@@ -3263,6 +3263,17 @@
                 "四非"
             ],
             "province": ""
+        },
+        {
+            "name": "中国科学院",
+            "institute": "微小卫星创新研究院",
+            "description": "预推免（预计在9月中旬开始分批进行，录满截止）",
+            "deadline": "2025-09-29T00:00:00+08:00",
+            "website": "https://www.microsate.ac.cn/yajsjy/sszsxx/202508/t20250820_7907973.html",
+            "tags": [
+                "研究院"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
