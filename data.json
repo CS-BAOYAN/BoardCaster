@@ -3274,6 +3274,17 @@
                 "研究院"
             ],
             "province": ""
+        },
+        {
+            "name": "中国科学院",
+            "institute": "上海微系统与信息技术研究所",
+            "description": "预推免（预计于9月中旬后分批进行）",
+            "deadline": "2025-09-26T00:00:00+08:00",
+            "website": "http://www.sim.cas.cn/yjs/zsxx/yjs_sszs/202508/t20250820_7907445.html",
+            "tags": [
+                "研究院"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
