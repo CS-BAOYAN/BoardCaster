@@ -527,11 +527,12 @@
         {
             "name": "中山大学",
             "institute": "人工智能学院",
-            "description": "_No response_",
-            "deadline": "2025-06-12T12:00:00+08:00",
-            "website": "https://sai.sysu.edu.cn/article/585",
+            "description": "预推免",
+            "deadline": "2025-09-09T17:00:00+08:00",
+            "website": "https://sai.sysu.edu.cn/article/608",
             "tags": [
-                "985"
+                "985",
+                "211"
             ],
             "province": ""
         },
