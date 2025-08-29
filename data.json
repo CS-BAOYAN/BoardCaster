@@ -3403,6 +3403,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "湖南工商大学",
+            "institute": "计算机学院",
+            "description": "预推免",
+            "deadline": "2025-09-11T00:00:00+08:00",
+            "website": "https://cee.hutb.edu.cn/p155/tzgg/20250822/172416.html",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
