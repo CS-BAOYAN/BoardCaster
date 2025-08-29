@@ -3392,6 +3392,17 @@
                 "研究院"
             ],
             "province": ""
+        },
+        {
+            "name": "长安大学",
+            "institute": "数据科学与人工智能研究院",
+            "description": "预推免（时间仅供参考）",
+            "deadline": "2025-09-25T00:00:00+08:00",
+            "website": "https://dsai.chd.edu.cn/info/1040/1242.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
