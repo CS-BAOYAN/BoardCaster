@@ -3319,6 +3319,18 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "北京航空航天大学",
+            "institute": "计算机学院",
+            "description": "预推免",
+            "deadline": "2025-09-12T23:00:00+08:00",
+            "website": "https://scse.buaa.edu.cn/info/1099/12024.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
