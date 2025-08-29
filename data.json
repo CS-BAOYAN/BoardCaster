@@ -3381,6 +3381,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "中国科学院",
+            "institute": "深圳先进技术研究院",
+            "description": "预推免",
+            "deadline": "2025-09-15T12:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/ocy_-FHezuu-CVDB6Zpb1g",
+            "tags": [
+                "研究院"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
