@@ -3516,6 +3516,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "中国科学院",
+            "institute": "上海天文台",
+            "description": "预推免可视具体报名情况及高校实际情况适当延长",
+            "deadline": "2025-09-11T00:00:00+08:00",
+            "website": "http://www.shao.cas.cn/yjs/zsxx/202509/t20250901_7950411.html",
+            "tags": [
+                "研究院"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
