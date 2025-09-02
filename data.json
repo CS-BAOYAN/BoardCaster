@@ -726,11 +726,15 @@
         {
             "name": "北京大学",
             "institute": "软件与微电子学院",
-            "description": "_No response_",
-            "deadline": "2025-06-16T16:00:00+08:00",
-            "website": "https://www.ss.pku.edu.cn/admission/admnotice/4680.html",
+            "description": "如果你是一战，我建议你去考软微，拿下top2人这一辈子就满足了\n如果你是二战，我建议你去考软微，有过一战的沉淀二战的你已经无比强大，数据也显示软微二战上岸率很高\n如果你是三战，我建议你考软微，因为软微放两年实习，考上了之前两战浪费的时间通通弥补\n如果你是四战，我还是建议你考软微，此时的你已经无牵无挂，唯有上北大你才能拿回属于你的一切",
+            "deadline": "2025-09-10T16:00:00+08:00",
+            "website": "https://www.ss.pku.edu.cn/admission/admnotice/4698.html",
             "tags": [
-                "TOP2"
+                "TOP2",
+                "华五",
+                "C9",
+                "985",
+                "211"
             ],
             "province": ""
         },
