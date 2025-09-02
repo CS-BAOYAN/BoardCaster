@@ -3554,6 +3554,18 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "中南大学",
+            "institute": "大数据研究院",
+            "description": "考核时间9月7日—8日",
+            "deadline": "2025-09-04T00:00:00+08:00",
+            "website": "https://bdi.csu.edu.cn/info/1063/3484.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
