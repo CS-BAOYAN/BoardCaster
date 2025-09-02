@@ -3636,6 +3636,18 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "东南大学",
+            "institute": "雷恩研究生学院",
+            "description": "已入围东南大学夏令营的同学不可再次报名",
+            "deadline": "2025-09-08T12:00:00+08:00",
+            "website": "https://cs.seu.edu.cn/2025/0901/c49342a537970/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
