@@ -3601,6 +3601,18 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "同济大学",
+            "institute": "中意工程创新学院",
+            "description": "预推免（信息通信与具身智能085400）",
+            "deadline": "2025-09-13T00:00:00+08:00",
+            "website": "https://tjsic.tongji.edu.cn/info/1094/3778.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
