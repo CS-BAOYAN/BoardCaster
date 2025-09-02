@@ -3613,6 +3613,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "华中师范大学",
+            "institute": "ALL",
+            "description": "预推免",
+            "deadline": "2025-09-15T00:00:00+08:00",
+            "website": "http://gs.ccnu.edu.cn/info/1028/5023.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
