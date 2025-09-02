@@ -3531,6 +3531,17 @@
                 "研究院"
             ],
             "province": ""
+        },
+        {
+            "name": "曲阜师范大学",
+            "institute": "ALL",
+            "description": "复试时间为9月23日-10月15日，具体时间以学校及招生学院通知为准",
+            "deadline": "2025-10-16T00:00:00+08:00",
+            "website": "https://yjs.qfnu.edu.cn/info/1044/4860.htm",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
