@@ -3683,6 +3683,18 @@
                 "四非"
             ],
             "province": ""
+        },
+        {
+            "name": "华东师范大学",
+            "institute": "数据学院",
+            "description": "预推免",
+            "deadline": "2025-09-12T12:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/UplaIQXFxboLGI-w7uR75g",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
