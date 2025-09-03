@@ -3718,6 +3718,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "中国科学院大学",
+            "institute": "工程科学学院",
+            "description": "预推免",
+            "deadline": "2025-09-15T00:00:00+08:00",
+            "website": "https://eng.ucas.ac.cn/index.php/zh-CN/xjgl-2/2702-2026",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
