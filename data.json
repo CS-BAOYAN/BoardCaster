@@ -267,11 +267,12 @@
         {
             "name": "同济大学",
             "institute": "计算机科学与技术学院",
-            "description": "_No response_",
-            "deadline": "2025-06-06T12:00:00+08:00",
-            "website": "https://cs.tongji.edu.cn/info/1022/3675.htm",
+            "description": "复试时间暂定：9月14日-15日，线下举行，具体安排另行通知",
+            "deadline": "2025-09-10T12:00:00+08:00",
+            "website": "https://cs.tongji.edu.cn/info/1022/3744.htm",
             "tags": [
-                "985"
+                "985",
+                "211"
             ],
             "province": ""
         },
