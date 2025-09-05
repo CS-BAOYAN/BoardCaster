@@ -3763,6 +3763,20 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "中国科学技术大学",
+            "institute": "网络空间安全学院",
+            "description": "线下面试拟定于2025年9月14日进行",
+            "deadline": "2025-09-10T17:00:00+08:00",
+            "website": "https://cybersec.ustc.edu.cn/2025/0904/c23826a698699/page.htm",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
