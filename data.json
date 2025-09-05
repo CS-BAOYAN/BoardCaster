@@ -3822,6 +3822,18 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "武汉大学",
+            "institute": "机器人学院",
+            "description": "考核时间定于9月13日。具体时间、地点和形式通过QQ群通知。原则上武汉市内考生须线下参加考核，武汉市外考生可选择线上考核",
+            "deadline": "2025-09-10T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/0p--_CJeVRM1ZikfyyQUAQ",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
