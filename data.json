@@ -3740,6 +3740,18 @@
                 "四非"
             ],
             "province": ""
+        },
+        {
+            "name": "西北工业大学",
+            "institute": "光电与智能研究院",
+            "description": "预推免",
+            "deadline": "2025-09-15T00:00:00+08:00",
+            "website": "https://iopen.nwpu.edu.cn/info/1051/7246.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
