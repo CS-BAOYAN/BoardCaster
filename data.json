@@ -3834,6 +3834,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "辽宁大学",
+            "institute": "信息学部",
+            "description": "本次考核通过网络远程方式依托腾讯会议软件进行复试考核。符合条件的申请人持本人身份证按要求参加考核",
+            "deadline": "2025-09-14T00:00:00+08:00",
+            "website": "https://sist.lnu.edu.cn/info/12675/2112.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
