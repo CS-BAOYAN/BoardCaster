@@ -540,11 +540,12 @@
         {
             "name": "北京师范大学",
             "institute": "文理学院",
-            "description": "_No response_",
-            "deadline": "2025-06-15T23:59:59+08:00",
-            "website": "https://fas.bnu.edu.cn/xwdt/tzgg/cf10654007224bf083a1f961611ab37c.htm",
+            "description": "获得复试资格的申请人应在参加复试前，通过我校推免申请系统缴纳复试费 100元/人",
+            "deadline": "2025-09-11T23:59:00+08:00",
+            "website": "https://fas.bnu.edu.cn/xwdt/tzgg/72865475db0746eb95398f266a6c9130.htm",
             "tags": [
-                "985"
+                "985",
+                "211"
             ],
             "province": ""
         },
