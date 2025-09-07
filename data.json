@@ -3980,6 +3980,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "南京大学",
+            "institute": "南京大学计算机学院",
+            "description": "工程硕博专项",
+            "deadline": "2025-09-10T23:59:59+08:00",
+            "website": "https://table.nju.edu.cn/apps/custom/gs-engineering-program/?page_id=pXAD",
+            "tags": [
+                "华五"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
