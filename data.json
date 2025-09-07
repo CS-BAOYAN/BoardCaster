@@ -4027,6 +4027,18 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "重庆大学",
+            "institute": "国家卓越工程师学院",
+            "description": "线下/线上面试。9月中下旬，具体时间及安排另行通知",
+            "deadline": "2025-09-17T12:00:00+08:00",
+            "website": "https://eie.cqu.edu.cn/info/1483/3507.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
