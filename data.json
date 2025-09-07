@@ -3930,6 +3930,18 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "北京理工大学",
+            "institute": "网络空间安全学院",
+            "description": "各学科方向组织面试，面试内容及方式由各方向独立确定",
+            "deadline": "2025-09-14T00:00:00+08:00",
+            "website": "https://cst.bit.edu.cn/xxfw/tzgg/85651741e5be49e5b64a99b254ca6770.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
