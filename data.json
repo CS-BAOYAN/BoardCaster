@@ -4016,6 +4016,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "中央财经大学",
+            "institute": "信息学院",
+            "description": "考核时间拟定为9月17日-9月19日。",
+            "deadline": "2025-09-14T17:00:00+08:00",
+            "website": "https://ie.cufe.edu.cn/info/1069/7048.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
