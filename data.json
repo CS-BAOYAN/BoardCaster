@@ -4053,6 +4053,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "中国科学技术大学",
+            "institute": "电子工程与信息科学系",
+            "description": "_No response_",
+            "deadline": "2025-09-15T23:59:59+08:00",
+            "website": "https://eeis.ustc.edu.cn/2025/0903/c2702a698535/page.htm",
+            "tags": [
+                "华五"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
