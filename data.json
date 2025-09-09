@@ -1348,11 +1348,12 @@
         {
             "name": "武汉大学",
             "institute": "人工智能学院",
-            "description": "_No response_",
-            "deadline": "2025-06-29T23:59:59+08:00",
-            "website": "https://sai.whu.edu.cn/info/1601/8151.htm",
+            "description": "请符合报名条件的考生（包括已经取得夏令营A类营员资格的考生，否则视为放弃A类营员资格 ）登录我校推免生申请系统进行预报名",
+            "deadline": "2025-09-14T17:00:00+08:00",
+            "website": "https://sai.whu.edu.cn/info/1601/9731.htm",
             "tags": [
-                "985"
+                "985",
+                "211"
             ],
             "province": ""
         },
