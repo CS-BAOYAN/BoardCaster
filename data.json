@@ -4198,6 +4198,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "复旦大学",
+            "institute": "多个",
+            "description": "_No response_",
+            "deadline": "2025-09-08T16:00:00+08:00",
+            "website": "https://gsao.fudan.edu.cn/5f/32/c15014a745266/page.htm",
+            "tags": [
+                "华五"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
