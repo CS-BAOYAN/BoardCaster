@@ -838,11 +838,14 @@
         {
             "name": "上海交通大学",
             "institute": "人工智能学院",
-            "description": "_No response_",
-            "deadline": "2025-07-04T00:00:00+08:00",
-            "website": "https://soai.sjtu.edu.cn/cn/show/322",
+            "description": "复试：9月18日左右，具体安排将通过邮件和短信通知",
+            "deadline": "2025-09-13T17:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/ABRzw6mtK2bvOVzdMMcDHA?scene=1",
             "tags": [
-                "华五"
+                "华五",
+                "C9",
+                "985",
+                "211"
             ],
             "province": ""
         },
