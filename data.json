@@ -4148,6 +4148,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "北京交通大学",
+            "institute": "计算机学院",
+            "description": "_No response_",
+            "deadline": "2025-09-13T00:00:00+08:00",
+            "website": "https://cs.bjtu.edu.cn/zsjy/yjszs3/yjszs_sszs/d91fc1058e764e48ae137b259cb0f3fe.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
