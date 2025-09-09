@@ -196,13 +196,15 @@
         {
             "name": "哈尔滨工业大学",
             "institute": "计算学部",
-            "description": "_No response_",
-            "deadline": "2025-06-08T00:00:00+08:00",
-            "website": "http://computing.hit.edu.cn/2025/0507/c11271a369599/pagem.htm",
+            "description": "面试时间将在审核通过后，根据报名情况适时安排。面试形式、地点以通知为准",
+            "deadline": "2025-09-12T00:00:00+08:00",
+            "website": "https://cs.hit.edu.cn/2025/0909/c11271a377322/pagem.htm",
             "tags": [
                 "C9",
-                "985"
-            ]
+                "985",
+                "211"
+            ],
+            "province": ""
         },
         {
             "name": "上海科技大学",
