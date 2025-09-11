@@ -2274,11 +2274,12 @@
         {
             "name": "大连理工大学",
             "institute": "软件学院",
-            "description": "入选研学营的学生餐食及营服统一安排，费用全免",
-            "deadline": "2025-7-1212:00:00+08:00",
-            "website": "https://ss.dlut.edu.cn/info/1321/27481.htm",
+            "description": "我院计划在9月下旬进行复试，具体时间及要求详见系统及钉钉群后续通知",
+            "deadline": "2025-09-12T08:00:00+08:00",
+            "website": "https://ss.dlut.edu.cn/info/1321/28201.htm",
             "tags": [
-                "985"
+                "985",
+                "211"
             ],
             "province": ""
         },
