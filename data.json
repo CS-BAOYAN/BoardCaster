@@ -4361,6 +4361,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "山西大学",
+            "institute": "计算机与信息技术学院",
+            "description": "预推免",
+            "deadline": "2025-09-20T12:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/8GvXNZpc-r3s_hjfxusrFQ",
+            "tags": [
+                "双非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
