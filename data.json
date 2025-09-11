@@ -4372,6 +4372,17 @@
                 "双非"
             ],
             "province": ""
+        },
+        {
+            "name": "深圳大学",
+            "institute": "大湾区国际创新学院和人工智能学院联培",
+            "description": "预推免",
+            "deadline": "2025-09-10T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/Iu2aVKksz6OvgEYMZt-BAA",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
