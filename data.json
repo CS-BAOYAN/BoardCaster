@@ -4326,6 +4326,19 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "西安交通大学",
+            "institute": "人工智能学院",
+            "description": "本次报名为学校推免服务系统报名。后续考核及录取安排，以学院具体细则通知为准",
+            "deadline": "2025-09-15T23:59:00+08:00",
+            "website": "https://iair.xjtu.edu.cn/info/1004/3815.htm",
+            "tags": [
+                "C9",
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
