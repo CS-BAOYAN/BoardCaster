@@ -4300,6 +4300,18 @@
                 "研究院"
             ],
             "province": ""
+        },
+        {
+            "name": "电子科技大学",
+            "institute": "信息与软件工程学院",
+            "description": "9月18日线下复试（含直博生）沙河校区主楼中、主楼东",
+            "deadline": "2025-09-15T09:00:00+08:00",
+            "website": "https://sise.uestc.edu.cn/info/1026/13675.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
