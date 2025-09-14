@@ -4462,6 +4462,18 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "电子科技大学",
+            "institute": "智能计算研究院",
+            "description": "9月20日上午9:00开始硕士复试",
+            "deadline": "2025-09-17T12:00:00+08:00",
+            "website": "https://icct.uestc.edu.cn/info/1029/1995.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
