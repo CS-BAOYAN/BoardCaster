@@ -4597,6 +4597,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "南京财经大学",
+            "institute": "计算机与人工智能学院",
+            "description": "复试形式为网络远程复试",
+            "deadline": "2025-09-19T11:00:00+08:00",
+            "website": "https://yjsc.nufe.edu.cn/info/1011/6661.htm",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
