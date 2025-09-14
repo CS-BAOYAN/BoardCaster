@@ -4507,6 +4507,18 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "重庆大学",
+            "institute": "大数据与软件学院",
+            "description": "考核采取线下现场综合面试方式，面试地点为重庆大学虎溪校区，请参加考核的推免生提前做好交通、住宿等相应准备",
+            "deadline": "2025-09-15T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/TaoiaGKNdfQLcmqDwPo0Rw?scene=1&click_id=12",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
