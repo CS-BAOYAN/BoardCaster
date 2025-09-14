@@ -4496,6 +4496,17 @@
                 "四非"
             ],
             "province": ""
+        },
+        {
+            "name": "华东电力大学（保定）",
+            "institute": "计算机系",
+            "description": "1. 形式：现场面试。\n\n2. 时间：2025年9月19日14：30（面试地点另行通知）",
+            "deadline": "2025-09-15T17:30:00+08:00",
+            "website": "https://cs.ncepu.edu.cn/xwdt/tz/b531fa77f0354aefaaf97084a8f1c2a9.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
