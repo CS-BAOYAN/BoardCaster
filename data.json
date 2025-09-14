@@ -4485,6 +4485,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "广东工业大学",
+            "institute": "计算机学院",
+            "description": "我校将于9月中下旬起陆续开始复试资格审核，初审通过后，学院将联系考生通知具体复试时间及安排",
+            "deadline": "2025-09-19T00:00:00+08:00",
+            "website": "https://cs.gdut.edu.cn/info/2318/5302.htm",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
