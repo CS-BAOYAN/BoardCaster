@@ -4586,6 +4586,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "华中农业大学",
+            "institute": "信息学院",
+            "description": "预推免",
+            "deadline": "2025-09-15T00:00:00+08:00",
+            "website": "https://coi.hzau.edu.cn/info/1611/52871.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
