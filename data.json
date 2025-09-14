@@ -4541,6 +4541,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "上海大学",
+            "institute": "ALL",
+            "description": "我校的推免生复试录取工作一般会在国家推免服务系统开通后几天内结束，请考生尽早报名并及时关注我校官网和招生学院网站",
+            "deadline": "2025-09-20T16:00:00+08:00",
+            "website": "https://yjszs.shu.edu.cn/info/1004/7404.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
