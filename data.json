@@ -4619,6 +4619,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "福州大学",
+            "institute": "计算机与大数据学院软件学院",
+            "description": "我院确定2026年招收直博生、硕士推免生复试工作采用现场机试和现场面试方式进行",
+            "deadline": "2025-09-16T17:00:00+08:00",
+            "website": "https://ccds.fzu.edu.cn/info/1138/11337.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
