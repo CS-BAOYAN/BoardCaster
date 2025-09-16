@@ -4686,6 +4686,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "郑州大学",
+            "institute": "计算机与人工智能学院、软件学院",
+            "description": "面试时间：按照中国研究生招生信息网系统报名时间确定。",
+            "deadline": "2025-09-20T18:00:00+08:00",
+            "website": "https://www7.zzu.edu.cn/csai/info/1147/3573.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
