@@ -4697,6 +4697,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "上海大学",
+            "institute": "未来技术学院",
+            "description": "我院暂定于2025年9月18日（周四）全天开展复试工作，具体复试时间以复试通知为准",
+            "deadline": "2025-09-18T00:00:00+08:00",
+            "website": "https://ai.shu.edu.cn/info/1087/3568.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
