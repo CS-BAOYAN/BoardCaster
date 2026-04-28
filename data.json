@@ -11478,6 +11478,17 @@
                 "研究院"
             ],
             "province": ""
+        },
+        {
+            "name": "清华大学",
+            "institute": "人工智能学院",
+            "description": "2026年清华大学人工智能学院大学生学术交流日，2026年5月15日-5月17日举办，主要面向大三本科生及硕士生（其他年级亦欢迎）。活动包括大学生学术交流宣讲会、AI学院开放日、青年教师/学生学术Talk、AI理论知识竞赛，以及围绕空间智能、大模型Agent、AI+Science三大主题的Workshop。不收报名费，为京外学生报销在京住宿及往返车票。",
+            "deadline": "2026-04-30T17:00:00+08:00",
+            "website": "https://collegeai.tsinghua.edu.cn/info/1043/1281.htm",
+            "tags": [
+                "TOP2"
+            ],
+            "province": ""
         }
     ],
     "camp2027": [
