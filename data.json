@@ -11435,5 +11435,18 @@
             ],
             "province": ""
         }
+    ],
+    "camp2027": [
+        {
+            "name": "北京中关村学院",
+            "institute": "北京中关村学院",
+            "description": "_No response_",
+            "deadline": "2026-05-05T12:00:00+08:00",
+            "website": "https://www.bza.edu.cn/detail/acld06aavyiaa8lwsi69ofwtxdund3k5",
+            "tags": [
+                "联培"
+            ],
+            "province": ""
+        }
     ]
 }
