@@ -11643,6 +11643,17 @@
                 "四非"
             ],
             "province": ""
+        },
+        {
+            "name": "中国科学技术大学",
+            "institute": "信息科学技术学院",
+            "description": "_No response_",
+            "deadline": "2026-06-22T23:59:59+08:00",
+            "website": "https://sist.ustc.edu.cn/2026/0520/c5142a741203/page.htm",
+            "tags": [
+                "华五"
+            ],
+            "province": ""
         }
     ],
     "camp2027": [
