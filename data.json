@@ -11632,6 +11632,17 @@
                 "双非"
             ],
             "province": ""
+        },
+        {
+            "name": "中科大",
+            "institute": "计算机学院",
+            "description": "_No response_",
+            "deadline": "2026-6-20T00:00:00+08:00",
+            "website": "http://cs.ustc.edu.cn/2026/0519/c22510a741173/pagem.htm",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
         }
     ],
     "camp2027": [
