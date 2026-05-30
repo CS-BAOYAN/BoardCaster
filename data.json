@@ -11787,6 +11787,17 @@
                 "双非"
             ],
             "province": ""
+        },
+        {
+            "name": "北京大学",
+            "institute": "计算机学院",
+            "description": "_No response_",
+            "deadline": "2026-6-15T00:17:00+08:00",
+            "website": "https://cs.pku.edu.cn/info/1022/5820.htm",
+            "tags": [
+                "TOP2"
+            ],
+            "province": ""
         }
     ],
     "camp2027": [
