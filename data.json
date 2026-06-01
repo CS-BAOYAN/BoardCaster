@@ -11921,6 +11921,17 @@
                 "四非"
             ],
             "province": ""
+        },
+        {
+            "name": "西湖大学",
+            "institute": "西湖大学",
+            "description": "_No response_",
+            "deadline": "2026-05-26T12:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/gGJTMwWMPLxxZF_myA_pcw",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
         }
     ]
 }
