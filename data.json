@@ -11910,6 +11910,17 @@
                 "C9"
             ],
             "province": ""
+        },
+        {
+            "name": "清华大学智能产业研究院",
+            "institute": "清华大学智能产业研究院",
+            "description": "_No response_",
+            "deadline": "无明确说明",
+            "website": "https://mp.weixin.qq.com/s/O_M_JCzFaPUCHV4w0O3lLQ",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
         }
     ]
 }
