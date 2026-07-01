@@ -13268,5 +13268,17 @@
             "province": ""
         }
     ],
-    "camp2027": []
+    "camp2027": [
+        {
+            "name": "清华大学深圳国际研究生院",
+            "institute": "清华大学深圳国际研究生院",
+            "description": "_No response_",
+            "deadline": "2026-07-28T15:00:00+08:00",
+            "website": "https://www.sigs.tsinghua.edu.cn/2026/0630/c7769a291820/page.htm",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
+        }
+    ]
 }
