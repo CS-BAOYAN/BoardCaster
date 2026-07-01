@@ -13279,6 +13279,17 @@
                 "四非"
             ],
             "province": ""
+        },
+        {
+            "name": "中国人民大学",
+            "institute": "高瓴人工智能学院",
+            "description": "_No response_",
+            "deadline": "2026-07-14T23:59:00+08:00",
+            "website": "http://ai.ruc.edu.cn/newslist/notice/20260623106.html",
+            "tags": [
+                "985"
+            ],
+            "province": ""
         }
     ]
 }
